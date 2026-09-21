@@ -9,9 +9,9 @@ Built for ITDPA3-34 at Eduvos, Pretoria.
 | Name | Focus area |
 |---|---|
 | Jennifer Ann Kok | ML classifier, Gradio interface, rule-based categorisation |
-| Kimberly Marufu | *(add focus area)* |
-| Thabang Manyama | *(add focus area)* |
-| Langalami Langa | *(add focus area)* |
+| Kimberly Marufu |  |
+| Thabang Manyama | |
+| Langalami Langa | |
 
 ## Project overview
 
