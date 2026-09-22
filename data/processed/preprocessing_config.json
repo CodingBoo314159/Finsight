@@ -1,0 +1,278 @@
+{
+  "seed": 42,
+  "category_map": {
+    "Supermarkets and Groceries": "Groceries",
+    "Convenience Stores": "Groceries",
+    "Gas Stations": "Transport",
+    "Travel": "Transport",
+    "Utilities": "Utilities",
+    "Telecommunication Services": "Utilities",
+    "Digital Entertainment": "Entertainment",
+    "Arts and Entertainment": "Entertainment",
+    "Restaurants": "Entertainment",
+    "Food and Beverage Services": "Entertainment",
+    "Healthcare": "Health",
+    "Gyms and Fitness Centers": "Health",
+    "Service": "Other Services",
+    "Insurance": "Other Services",
+    "Shops": "Other Services",
+    "Clothing and Accessories": "Other Services",
+    "Department Stores": "Other Services",
+    "Bank Fees": "Other Services",
+    "Bank Fee": "Other Services"
+  },
+  "non_spend_categories": [
+    "ATM",
+    "Check Deposit",
+    "Interest",
+    "Internal Account Transfer",
+    "Loans",
+    "Payment",
+    "Payroll",
+    "Tax Refund",
+    "Third Party",
+    "Transfer",
+    "Transfer Credit",
+    "Transfer Debit",
+    "Transfer Deposit",
+    "Uncategorized"
+  ],
+  "noise_patterns": [
+    "round up|internal account transfer|online transfer|zelle|cash app|venmo|transfer to|transfer from|empower|float me|dividend|^check\\s*\\d*$|^cash\\b",
+    "apple cash|bright money|instacash|afterpay|klarna|quadpay|\\bzip\\b|mspbna|credit union|immediate funds|sent money|\\btransfer\\b|repayment"
+  ],
+  "merchant_map": {
+    "walmart|wal mart|wm superc|wm supercenter|supercenter": [
+      "checkers",
+      "checkers hyper",
+      "shoprite",
+      "pick n pay",
+      "spar",
+      "boxer"
+    ],
+    "kroger|meijer|safeway|aldi|piggly wiggly|save mart|ingles markets|fine fare supermarket|instacart|grocery": [
+      "pick n pay",
+      "woolworths food",
+      "spar",
+      "food lovers market",
+      "checkers",
+      "shoprite"
+    ],
+    "target": [
+      "woolworths",
+      "woolworths food",
+      "checkers"
+    ],
+    "star food|kwik stop|food mart|break time|enmarket|mapco|huck food|save pay": [
+      "kwikspar",
+      "spar express",
+      "friendly grocer",
+      "pick n pay express"
+    ],
+    "circle|speedway|shell oil|shell service station|shell|sunoco|chevron|bp|sheetz|holiday stations|marathon petro|marathon|qt|quiktrip|arco|wawa|kroger fuel|kwik trip|murphy express|citgo|valero|exxon|mobil": [
+      "engen",
+      "sasol",
+      "shell",
+      "bp",
+      "totalenergies",
+      "astron energy"
+    ],
+    "uber|lyft": [
+      "uber",
+      "bolt"
+    ],
+    "dd doordash|doordash|grubhub|postmates": [
+      "mr food",
+      "uber eats"
+    ],
+    "starbucks|dunkin donuts|dunkin": [
+      "vida caffe",
+      "mugg bean",
+      "seattle coffee",
+      "krispy kreme"
+    ],
+    "mcdonalds|mcdonald|taco bell|wendy|chick fil|burger king|whataburger|arby|little caesars|papa john|domino|chipotle|kfc|sonic drive|jack box|popeyes|subway": [
+      "kfc",
+      "mcdonalds",
+      "steers",
+      "nandos",
+      "wimpy",
+      "debonairs pizza",
+      "romans pizza",
+      "spur",
+      "burger king",
+      "chicken licken"
+    ],
+    "hulu hulu com|hulu|disney plus|netflix com netflix com|netflix": [
+      "netflix",
+      "showmax",
+      "dstv",
+      "disney plus"
+    ],
+    "spotify": [
+      "spotify",
+      "apple music"
+    ],
+    "\\bbet\\b": [
+      "betway",
+      "hollywoodbets",
+      "supabets"
+    ],
+    "gapower|duke energy|reliant energy|consumers energy|dominion energy|dte energy|comed|txu|atmos energy|payless power|entergy|centerpoint energy|cal edison|green mountain energy|lumbee river emc|electric cooper|dixie electric|energy": [
+      "eskom",
+      "city power",
+      "city tshwane electricity",
+      "city johannesburg",
+      "ekurhuleni electricity"
+    ],
+    "water works|tucson water|sherman utility|municipal|utility": [
+      "city tshwane water",
+      "johannesburg water",
+      "rand water",
+      "city tshwane rates"
+    ],
+    "cal gas|spire": [
+      "egoli gas"
+    ],
+    "securus inmate|att|verizon|t mobile|tmobile": [
+      "vodacom",
+      "mtn",
+      "cell",
+      "telkom",
+      "rain"
+    ],
+    "rumpke": [
+      "pikitup"
+    ],
+    "kaiser|hospital|hospita|health dept|health": [
+      "netcare",
+      "mediclinic",
+      "life healthcare",
+      "discovery health"
+    ],
+    "dental|dent|orthod|orthodont|orthodon|dmd|smile doctors": [
+      "dental studio",
+      "smile clinic",
+      "dental care"
+    ],
+    "planet fit|fitness|fitne|club fees": [
+      "virgin active",
+      "planet fitness",
+      "zone fitness"
+    ],
+    "dollar general|dollar tree|family dollar": [
+      "mr price",
+      "pep",
+      "ackermans",
+      "jet",
+      "game"
+    ],
+    "wells fargo|chase|bank america|capital one": [
+      "absa",
+      "fnb",
+      "standard bank",
+      "nedbank",
+      "capitec",
+      "tymebank"
+    ]
+  },
+  "amount_profile_zar": {
+    "Groceries": [
+      350,
+      0.9,
+      15,
+      4500
+    ],
+    "Transport": [
+      550,
+      0.7,
+      20,
+      2500
+    ],
+    "Entertainment": [
+      160,
+      0.8,
+      20,
+      2500
+    ],
+    "Utilities": [
+      650,
+      0.8,
+      50,
+      5000
+    ],
+    "Health": [
+      450,
+      0.9,
+      50,
+      8000
+    ],
+    "Education": [
+      1800,
+      0.9,
+      100,
+      25000
+    ],
+    "Other Services": [
+      220,
+      1.0,
+      10,
+      5000
+    ]
+  },
+  "synthetic_targets": {
+    "Education": 1500,
+    "Health": 1500,
+    "Utilities": 2000
+  },
+  "raw_audit": {
+    "rows": 258779,
+    "missing_per_column": {
+      "client_id": 0,
+      "bank_id": 0,
+      "account_id": 0,
+      "txn_id": 0,
+      "txn_date": 0,
+      "description": 0,
+      "amount": 0,
+      "category": 257
+    },
+    "full_row_duplicates": 0,
+    "same_desc_amount_date": 22990,
+    "unique_descriptions": 102108,
+    "raw_categories": 33,
+    "date_range": [
+      "2023-06-01 00:00:00",
+      "2023-09-30 00:00:00"
+    ]
+  },
+  "final_counts": {
+    "test": {
+      "Education": 232,
+      "Entertainment": 3812,
+      "Groceries": 3196,
+      "Health": 220,
+      "Other Services": 2077,
+      "Transport": 2926,
+      "Utilities": 300
+    },
+    "train": {
+      "Education": 1036,
+      "Entertainment": 17790,
+      "Groceries": 14915,
+      "Health": 1025,
+      "Other Services": 9689,
+      "Transport": 13652,
+      "Utilities": 1400
+    },
+    "val": {
+      "Education": 232,
+      "Entertainment": 3812,
+      "Groceries": 3196,
+      "Health": 255,
+      "Other Services": 2077,
+      "Transport": 2926,
+      "Utilities": 300
+    }
+  }
+}
