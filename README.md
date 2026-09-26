@@ -76,7 +76,25 @@ finsight/
 
 ## Data
 
-The classification model is trained on a public transaction dataset (~258,000 rows) sourced from GitHub, adapted to reflect South African spending patterns — merchant names, currency (ZAR), and category weighting are adjusted to align with the Stats SA Income and Expenditure Survey. No real personal financial data is used at any point.
+**Source.** A public bank transaction dataset from GitHub (258,779 rows, 33 categories, US-based). No real personal financial data is used at any point.
+
+**Preprocessing** (`src/data_prep.py`, walkthrough in `notebooks/01_data_preprocessing.ipynb`):
+- Identifier columns dropped; only labelled debit (spending) transactions kept.
+- 33 source categories mapped to the 7 FINSIGHT categories; transfers, income, loans and similar are excluded from training.
+- Label noise removed (e.g. savings round-ups and transfers labelled as spending); conflicting labels resolved (fuel stations → Transport, majority vote per merchant).
+- Descriptions cleaned with `clean_description()` (`src/nlp_preprocessing.py`), the same function used on PDF text.
+- Localised to South Africa: US merchants and cities swapped for SA equivalents (e.g. Walmart → Checkers / Shoprite / Pick n Pay).
+- Amounts rescaled to realistic Rand values per category (documented assumptions).
+- Education had no source rows and Health very few, so template-based synthetic SA transactions were added.
+- Split 70/15/15, stratified by category and grouped by merchant so the same merchant never appears in both training and test.
+
+Final dataset: 85,068 transactions in `data/processed/` (`train.csv`, `val.csv`, `test.csv`). Rebuild with:
+
+    python src/data_prep.py
+
+**Synthetic bank statements** (`src/pdf_generator.py`, `notebooks/02_pdf_generator.ipynb`): 30 PDF statements from three fictional banks with different layouts, built from test-split transactions, each with a ground-truth CSV. Stored in `data/synthetic_statements/`.
+
+**PDF extraction** (`src/pdf_extraction.py`, `notebooks/03_pdf_extraction.ipynb`): position-based pdfplumber extraction that works across all three layouts, validated against the ground truth.
 
 Spending categories: Groceries, Transport, Utilities, Entertainment, Health, Education, Other Services.
 
