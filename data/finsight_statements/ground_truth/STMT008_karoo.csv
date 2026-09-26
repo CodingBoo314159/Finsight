@@ -1,0 +1,46 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT008,1,2026-07-01,STEERS TON RANDBURG,steers ton randburg,-71.45,14327.91,Entertainment,True,test_split
+STMT008,2,2026-07-03,DEBIT ORDER EGOLI GAS BLOEMFONTEIN 6283*1005,egoli gas bloemfontein,-418.0,13909.91,Utilities,True,test_split
+STMT008,3,2026-07-03,SEATTLE COFFEE PUTMAN DATE,seattle coffee putman date,-77.11,13832.8,Entertainment,True,test_split
+STMT008,4,2026-07-03,POS PURCHASE VIDA CAFFE 5750*8444,vida caffe,-55.61,13777.19,Entertainment,True,test_split
+STMT008,5,2026-07-04,CARD PURCHASE STASH SUBSCRIPTION JOHANNESBURG NYUS 04 JUL,stash subscription johannesburg nyus,-46.62,13730.57,Entertainment,True,test_split
+STMT008,6,2026-07-05,POS PURCHASE STARS CHERRY HILL 4423*1641,stars cherry hill,-276.23,13454.34,Entertainment,True,test_split
+STMT008,7,2026-07-05,EFT PAYMENT SCHOOL FEES DEPT EDUC 9447*4957,school fees dept educ,-3599.29,9855.05,Education,True,test_split
+STMT008,8,2026-07-05,MAGTAPE DEBIT SCHOOL FEES DEPT EDUC DURBAN,school fees dept educ durban,-1725.75,8129.3,Education,True,test_split
+STMT008,9,2026-07-06,EFT PAYMENT VIRGIN ACTIVE DURBAN,virgin active durban,-320.12,7809.18,Health,True,test_split
+STMT008,10,2026-07-08,POS PURCHASE CHECKERS SOWETO,checkers soweto,-664.89,7144.29,Groceries,True,test_split
+STMT008,11,2026-07-09,POS PURCHASE CHECKERS 09 JUL,checkers,-719.47,6424.82,Groceries,True,test_split
+STMT008,12,2026-07-10,POS PURCHASE SEATTLE COFFEE,seattle coffee,-130.99,6293.83,Entertainment,True,test_split
+STMT008,13,2026-07-11,CARD PURCHASE MLGW POLOKWANE 9712*9658,mlgw polokwane,-332.62,5961.21,Utilities,True,test_split
+STMT008,14,2026-07-11,SPAR,spar,-530.84,5430.37,Groceries,True,test_split
+STMT008,15,2026-07-11,POS PURCHASE STEAMGAMES COM,steamgames com,-146.73,5283.64,Other Services,True,test_split
+STMT008,16,2026-07-12,POS PURCHASE INTL FEE STARBUCKSKOREA SEOUL KR,intl fee starbuckskorea seoul kr,-20.38,5263.26,Entertainment,True,test_split
+STMT008,17,2026-07-12,POS PURCHASE RALPHS REDONDO BEACH HAO POLOKWANE 1639*9878 12 JUL,ralphs redondo beach hao polokwane,-1302.44,3960.82,Groceries,True,test_split
+STMT008,18,2026-07-12,POS PURCHASE SHELL 5722*8798,shell,-143.97,3816.85,Transport,True,test_split
+STMT008,19,2026-07-13,CARD PURCHASE STEERS BIG SPRING 2510*5208 13 JUL,steers big spring,-94.2,3722.65,Entertainment,True,test_split
+STMT008,20,2026-07-14,POS PURCHASE MICROSOFT 14 JUL,microsoft,-127.96,3594.69,Other Services,True,test_split
+STMT008,21,2026-07-14,MCDONALDS PORTE MIDRAND 4796*2381 14 JUL,mcdonalds porte midrand,-142.87,3451.82,Entertainment,True,test_split
+STMT008,22,2026-07-17,WOOLWORTHS FOOD COM 6489*9818,woolworths food com,-367.17,3084.65,Groceries,True,test_split
+STMT008,23,2026-07-17,POS PURCHASE ESKOM DATA BUNDLE 2939*6129 17 JUL,eskom data bundle,-369.08,2715.57,Utilities,True,test_split
+STMT008,24,2026-07-19,POS PURCHASE DOLLARTREE OAK PARK 1463*4680 19 JUL,dollartree oak park,-178.32,2537.25,Other Services,True,test_split
+STMT008,25,2026-07-19,CARD PURCHASE BOXER SUP MONTGOMERY 19 JUL,boxer sup montgomery,-784.19,1753.06,Groceries,True,test_split
+STMT008,26,2026-07-22,WIMPY GRAND BLANC MIDRAND 8450*2522 22 JUL,wimpy grand blanc midrand,-25.9,1727.16,Entertainment,True,test_split
+STMT008,27,2026-07-23,TOTALENERGIES CENTURION 5928*5781,totalenergies centurion,-229.68,1497.48,Transport,True,test_split
+STMT008,28,2026-07-25,POS PURCHASE SASOL SERVICE STAT 4668*1244,sasol service stat,-427.25,1070.23,Transport,True,test_split
+STMT008,29,2026-07-25,SALARY IMPALA RETAIL GROUP,salary impala retail group,26900.0,27970.23,Income,False,generated
+STMT008,30,2026-07-25,CARD PURCHASE WOOLWORTHS FOOD,woolworths food,-1571.11,26399.12,Groceries,True,test_split
+STMT008,31,2026-07-25,BURGER KING 9575*7173,burger king,-67.41,26331.71,Entertainment,True,test_split
+STMT008,32,2026-07-26,TRANSFER TO SAVINGS,transfer savings,-2400.0,23931.71,Transfer,False,generated
+STMT008,33,2026-07-26,POS PURCHASE VIRGIN ACTIVE SCRIPT 4147*3253 26 JUL,virgin active script,-2670.57,21261.14,Health,True,test_split
+STMT008,34,2026-07-26,RALPHS CANYON RIVERSIDE,ralphs canyon riverside,-381.41,20879.73,Groceries,True,test_split
+STMT008,35,2026-07-27,CARD PURCHASE GIANT FUEL 27 JUL,giant fuel,-1108.12,19771.61,Transport,True,test_split
+STMT008,36,2026-07-27,PAPER STMT FEE JOHANNESBURG,paper stmt fee johannesburg,-110.88,19660.73,Other Services,True,test_split
+STMT008,37,2026-07-29,MONTESSORI PRE SCHOOL REGISTRATION MIDRAND 29 JUL,montessori pre school registration midrand,-4634.56,15026.17,Education,True,test_split
+STMT008,38,2026-07-30,POS PURCHASE ORTHODONTIC ASSOCIATES SHELBY,orthodontic associates shelby,-1372.96,13653.21,Health,True,test_split
+STMT008,39,2026-07-30,POS PURCHASE BILLPAY DEERFIELDBEACH,billpay deerfieldbeach,-743.82,12909.39,Utilities,True,test_split
+STMT008,40,2026-07-30,POS PURCHASE GOLDEN GATE PETR MONTROSE 9259*7406,golden gate petr montrose,-293.62,12615.77,Groceries,True,test_split
+STMT008,41,2026-07-31,POS PURCHASE KFC FORT WORTH 3367*9750,kfc fort worth,-222.61,12393.16,Entertainment,True,test_split
+STMT008,42,2026-07-31,POS PURCHASE OVERDRAFT FEE POSTED CAPITAL AUTO DIRECTPAY 4052*5988,overdraft fee posted capital auto directpay,-396.56,11996.6,Other Services,True,test_split
+STMT008,43,2026-07-31,POS PURCHASE MONTHLY MAINTENANCE FEE 8491*7685 31 JUL,monthly maintenance fee,-117.06,11879.54,Other Services,True,test_split
+STMT008,44,2026-07-31,POS PURCHASE GRID MENLYN 4688*5640,grid menlyn,-219.84,11659.7,Utilities,True,test_split
+STMT008,45,2026-07-31,MONTHLY ACCOUNT FEE,monthly account fee,-75.0,11584.7,Other Services,True,generated

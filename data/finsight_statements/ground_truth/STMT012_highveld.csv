@@ -1,0 +1,44 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT012,1,2026-06-01,POS PURCHASE FOOD,food,-1429.72,13924.76,Groceries,True,test_split
+STMT012,2,2026-06-02,CARD PURCHASE PIQUA KWIKSPAR JOHANNESBURG 02 JUN,piqua kwikspar johannesburg,-155.37,13769.39,Groceries,True,test_split
+STMT012,3,2026-06-05,SHELL INSIDE JOHANNESBURG,shell inside johannesburg,-528.21,13241.18,Transport,True,test_split
+STMT012,4,2026-06-05,MONTHLY MAINTENANCE FEE 7651*7680 05 JUN,monthly maintenance fee,-284.13,12957.05,Other Services,True,test_split
+STMT012,5,2026-06-06,POS PURCHASE CHECKERS HYPER SUP RANDBURG,checkers hyper sup randburg,-185.05,12772.0,Groceries,True,test_split
+STMT012,6,2026-06-06,ENGEN LAKE 06 JUN,engen lake,-377.08,12394.92,Transport,True,test_split
+STMT012,7,2026-06-07,EFT PAYMENT COS UTILITIES EZPA SANDTON,cos utilities ezpa sandton,-1633.47,10761.45,Utilities,True,test_split
+STMT012,8,2026-06-07,CARD PURCHASE TOTALENERGIES BUEN LAKE BUENA VI,totalenergies buen lake buena vi,-710.54,10050.91,Transport,True,test_split
+STMT012,9,2026-06-07,INTERNET PMT TO GRID,grid,-234.22,9816.69,Utilities,True,test_split
+STMT012,10,2026-06-07,POS PURCHASE ROMANS PIZZA DEER PARK 4568*6088,romans pizza deer park,-116.5,9700.19,Entertainment,True,test_split
+STMT012,11,2026-06-08,MEDIRITE PHARMACY MEMBERSHIP BLOEMFONTEIN,medirite pharmacy membership bloemfontein,-50.0,9650.19,Health,True,test_split
+STMT012,12,2026-06-08,CARD PURCHASE DURBAN LIFE INS PREM,durban life ins prem,-351.85,9298.34,Other Services,True,test_split
+STMT012,13,2026-06-09,GOLDEN CHICK 1741*8498,golden chick,-100.44,9197.9,Entertainment,True,test_split
+STMT012,14,2026-06-09,POS PURCHASE NORTHSIDE MARKET 3361*8855,northside market,-369.47,8828.43,Groceries,True,test_split
+STMT012,15,2026-06-09,CARD PURCHASE OAK PARK CONVENIENCE PLEASANT HILL,oak park convenience pleasant hill,-1415.76,7412.67,Transport,True,test_split
+STMT012,16,2026-06-11,CARD PURCHASE KOHLS 11 JUN,kohls,-200.88,7211.79,Other Services,True,test_split
+STMT012,17,2026-06-13,POS PURCHASE ASTRON ENERGY HUNTINGDON HATFIELD 7780*1916,astron energy huntingdon hatfield,-308.1,6903.69,Transport,True,test_split
+STMT012,18,2026-06-13,CARD PURCHASE ASTRON ENERGY TOCK CAPE TOWN,astron energy tock cape town,-1450.94,5452.75,Transport,True,test_split
+STMT012,19,2026-06-13,POS PURCHASE KRISPY KREME,krispy kreme,-91.8,5360.95,Entertainment,True,test_split
+STMT012,20,2026-06-14,CARD PURCHASE RAISING CANES BEAUMONT 6088*7863,raising canes beaumont,-149.48,5211.47,Entertainment,True,test_split
+STMT012,21,2026-06-14,POS PURCHASE INTL FEE GHL LEVELS BANGKOK TH 8405*7417,intl fee ghl levels bangkok th,-20.38,5191.09,Entertainment,True,test_split
+STMT012,22,2026-06-15,CARD PURCHASE SASOL OUTSIDE GAINSVILLE DURBAN,sasol outside gainsville durban,-1392.4,3798.69,Transport,True,test_split
+STMT012,23,2026-06-15,POS PURCHASE MONTHLY MAINTENANCE FEE,monthly maintenance fee,-184.99,3613.7,Other Services,True,test_split
+STMT012,24,2026-06-15,CARD PURCHASE PUBLIX SUPER RED BUG LAKE WINTER SPRING SANDTON 15 JUN,publix super red bug lake winter spring sandton,-852.6,2761.1,Groceries,True,test_split
+STMT012,25,2026-06-15,POS PURCHASE MICROSOFT MIDRAND,microsoft midrand,-167.74,2593.36,Other Services,True,test_split
+STMT012,26,2026-06-16,POS PURCHASE MONTHLY MAINTENANCE FEE,monthly maintenance fee,-117.06,2476.3,Other Services,True,test_split
+STMT012,27,2026-06-17,PICK PAY MIDDLEBR KNOXVILLE PIN 8729*2241 17 JUN,pick pay middlebr knoxville pin,-208.53,2267.77,Groceries,True,test_split
+STMT012,28,2026-06-17,CARD PURCHASE ALLSUPS INTERSTMERKEL BLOEMFONTEIN,allsups interstmerkel bloemfontein,-47.11,2220.66,Groceries,True,test_split
+STMT012,29,2026-06-18,BRAUMS STORE SANDTON,braums store sandton,-250.19,1970.47,Entertainment,True,test_split
+STMT012,30,2026-06-20,POS PURCHASE WOOLWORTHS ROSEBANK,woolworths rosebank,-341.74,1628.73,Groceries,True,test_split
+STMT012,31,2026-06-20,POS PURCHASE WIMPY SAN DIEGO,wimpy san diego,-317.96,1310.77,Entertainment,True,test_split
+STMT012,32,2026-06-21,POS PURCHASE FOOD JOHANNESBURG 6434*5288 21 JUN,food johannesburg,-89.65,1221.12,Groceries,True,test_split
+STMT012,33,2026-06-21,CARD PURCHASE DDA PUR APPLE COM,dda pur apple com,-225.42,995.7,Other Services,True,test_split
+STMT012,34,2026-06-22,APPLE MUSIC 22 JUN,apple music,-82.3,913.4,Entertainment,True,test_split
+STMT012,35,2026-06-25,VIRGIN ACTIVE SCRIPT 9746*3706 25 JUN,virgin active script,-522.37,391.03,Health,True,test_split
+STMT012,36,2026-06-25,SALARY BLUE CRANE SYSTEMS,salary blue crane systems,24600.0,24991.03,Income,False,generated
+STMT012,37,2026-06-26,TRANSFER TO SAVINGS,transfer savings,-1800.0,23191.03,Transfer,False,generated
+STMT012,38,2026-06-26,POS PURCHASE WIMPY 6042*1537 26 JUN,wimpy,-87.8,23103.23,Entertainment,True,test_split
+STMT012,39,2026-06-27,POS PURCHASE MCDONALDS,mcdonalds,-56.9,23046.33,Entertainment,True,test_split
+STMT012,40,2026-06-27,CARD PURCHASE SASOL HATFIELD 7955*2216 27 JUN,sasol hatfield,-1314.12,21732.21,Transport,True,test_split
+STMT012,41,2026-06-27,POS PURCHASE MUGG BEAN 5688*3173 27 JUN,mugg bean,-163.34,21568.87,Entertainment,True,test_split
+STMT012,42,2026-06-28,CARD PURCHASE PIQUA PICK PAY EXPRESS 8524*7498 28 JUN,piqua pick pay express,-410.06,21158.81,Groceries,True,test_split
+STMT012,43,2026-06-30,MONTHLY ACCOUNT FEE,monthly account fee,-65.0,21093.81,Other Services,True,generated

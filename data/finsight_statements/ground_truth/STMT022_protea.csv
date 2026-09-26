@@ -1,0 +1,46 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT022,1,2026-04-02,POS PURCHASE FOREIGN EXCHANGE RATE ADJUSTMENT FEE TAB CENTURION,foreign exchange rate adjustment fee tab centurion,-33.12,23073.69,Other Services,True,test_split
+STMT022,2,2026-04-02,POS PURCHASE SHELL,shell,-805.23,22268.46,Transport,True,test_split
+STMT022,3,2026-04-03,INTERNET PMT TO GRID 5762*7818,grid,-264.9,22003.56,Utilities,True,test_split
+STMT022,4,2026-04-04,TOTALENERGIES 9425*7975,totalenergies,-560.04,21443.52,Transport,True,test_split
+STMT022,5,2026-04-05,EFT PAYMENT FSI CITY POWER LOCAL MIDRAND 2710*4071 05 APR,fsi city power local midrand,-171.92,21271.6,Utilities,True,test_split
+STMT022,6,2026-04-05,EFT PAYMENT VIRGIN ACTIVE CAPE TOWN,virgin active cape town,-167.8,21103.8,Health,True,test_split
+STMT022,7,2026-04-05,CARD PURCHASE PIQUA FRIENDLY GROCER RANDBURG 05 APR,piqua friendly grocer randburg,-310.44,20793.36,Groceries,True,test_split
+STMT022,8,2026-04-05,POS PURCHASE CHECKERS COM 8337*1151 05 APR,checkers com,-508.4,20284.96,Groceries,True,test_split
+STMT022,9,2026-04-07,POS PURCHASE PICK PAY SUPER CEN NATCHEZ SANDTON,pick pay super cen natchez sandton,-486.82,19798.14,Groceries,True,test_split
+STMT022,10,2026-04-07,INTERNET PMT TO FIRSTENERGY OPCO FE ECHECK 07 APR,firstenergy opco fe echeck,-833.05,18965.09,Utilities,True,test_split
+STMT022,11,2026-04-07,POS PURCHASE HARTFIELD PIN,hartfield pin,-127.19,18837.9,Groceries,True,test_split
+STMT022,12,2026-04-08,CARD PURCHASE BOXER LINCOLNTON MENLYN 1151*5018 08 APR,boxer lincolnton menlyn,-489.81,18348.09,Groceries,True,test_split
+STMT022,13,2026-04-09,CARD PURCHASE ESKOM 09 APR,eskom,-625.13,17722.96,Utilities,True,test_split
+STMT022,14,2026-04-10,POS PURCHASE CF UNITED LLC LOS ES 2166*9545,cf united llc los es,-322.36,17400.6,Transport,True,test_split
+STMT022,15,2026-04-11,OVERDRAFT FEE DETAILS PAYU PAGOSONLINE BOGOTA PESO EXCHG RTE SANDTON 3243*7141 11 APR,overdraft fee details payu pagosonline bogota peso exchg rte sandton,-370.75,17029.85,Other Services,True,test_split
+STMT022,16,2026-04-12,POS PURCHASE KRISPY KREME 9263*6717,krispy kreme,-122.32,16907.53,Entertainment,True,test_split
+STMT022,17,2026-04-14,CARD PURCHASE FOOD LION NCHESTERFIELD PIN,food lion nchesterfield pin,-240.45,16667.08,Groceries,True,test_split
+STMT022,18,2026-04-15,CARD PURCHASE SIGNATURE RICE LAKE RANDBURG 7110*7227,signature rice lake randburg,-304.21,16362.87,Other Services,True,test_split
+STMT022,19,2026-04-15,RACEWAY PANAMA CITY,raceway panama city,-354.66,16008.21,Groceries,True,test_split
+STMT022,20,2026-04-16,POS PURCHASE AMAZON PRIME QX,amazon prime qx,-223.43,15784.78,Entertainment,True,test_split
+STMT022,21,2026-04-18,CARD PURCHASE SHOPRITE BURLESON 4891*1414,shoprite burleson,-143.17,15641.61,Groceries,True,test_split
+STMT022,22,2026-04-18,POS PURCHASE UNIVERSITY PRETORIA TUITION JOHANNESBURG 18 APR,university pretoria tuition johannesburg,-3479.31,12162.3,Education,True,test_split
+STMT022,23,2026-04-18,POS PURCHASE TOTALENERGIES QPS 18 APR,totalenergies qps,-1084.41,11077.89,Transport,True,test_split
+STMT022,24,2026-04-18,POS PURCHASE ARBYS WEST WEST COLUMBIA ROSEBANK 8998*4270 18 APR,arbys west west columbia rosebank,-295.84,10782.05,Entertainment,True,test_split
+STMT022,25,2026-04-19,POS PURCHASE SCHOOL FEES DEPT EDUC TEXTBOOKS 4891*8727 19 APR,school fees dept educ textbooks,-5261.53,5520.52,Education,True,test_split
+STMT022,26,2026-04-20,CARD PURCHASE TRADER JOE JOHANNESBURG 2993*3127,trader joe johannesburg,-200.22,5320.3,Groceries,True,test_split
+STMT022,27,2026-04-20,CARD PURCHASE DBT CRD LOAF JUG PUEBLO BLOEMFONTEIN 3453*4553,dbt crd loaf jug pueblo bloemfontein,-676.79,4643.51,Transport,True,test_split
+STMT022,28,2026-04-21,POS PURCHASE ENGEN SERVICE STAT 5965*3508,engen service stat,-761.42,3882.09,Transport,True,test_split
+STMT022,29,2026-04-21,TIME PM DATE TOTALENERGIES SANDHU CLAYTON 4622*1096 21 APR,time pm date totalenergies sandhu clayton,-1248.64,2633.45,Transport,True,test_split
+STMT022,30,2026-04-22,POS PURCHASE VIDA CAFFE 22 APR,vida caffe,-40.37,2593.08,Entertainment,True,test_split
+STMT022,31,2026-04-22,POS PURCHASE CHECKERS HYPER SUPER CEN NATCHEZ 4653*6210,checkers hyper super cen natchez,-454.18,2138.9,Groceries,True,test_split
+STMT022,32,2026-04-22,MERCHANT PICK PAY CENTER RD BURTON HATFIELD 6692*3596 22 APR,merchant pick pay center rd burton hatfield,-86.85,2052.05,Other Services,True,test_split
+STMT022,33,2026-04-23,POS PURCHASE WINCO FOODS BAKERSFIELD CAUS,winco foods bakersfield caus,-543.97,1508.08,Groceries,True,test_split
+STMT022,34,2026-04-23,ENGEN CONROE 4332*7581,engen conroe,-296.56,1211.52,Transport,True,test_split
+STMT022,35,2026-04-24,POS PURCHASE NORTHSIDE MARKET ROSEBANK 5212*1737 24 APR,northside market rosebank,-351.86,859.66,Groceries,True,test_split
+STMT022,36,2026-04-24,POS PURCHASE WOOLWORTHS MIDRAND 6869*9977,woolworths midrand,-1377.91,-518.25,Groceries,True,test_split
+STMT022,37,2026-04-24,ENGEN JOHANNESBURG 24 APR,engen johannesburg,-853.47,-1371.72,Transport,True,test_split
+STMT022,38,2026-04-24,POS PURCHASE ATM FEE 1355*4486,atm fee,-47.42,-1419.14,Other Services,True,test_split
+STMT022,39,2026-04-25,POS PURCHASE MERCHANT TOTALENERGIES EXPRE FLINT JOHANNESBURG,merchant totalenergies expre flint johannesburg,-282.88,-1702.02,Transport,True,test_split
+STMT022,40,2026-04-25,SALARY BLUE CRANE SYSTEMS,salary blue crane systems,23200.0,21497.98,Income,False,generated
+STMT022,41,2026-04-27,CARD PURCHASE PROG DIRECT INS INS PREM POL HATFIELD,prog direct ins ins prem pol hatfield,-933.47,20564.51,Other Services,True,test_split
+STMT022,42,2026-04-27,BLOEMFONTEIN LIFE INS PREM WEB,bloemfontein life ins prem web,-290.0,20274.51,Other Services,True,test_split
+STMT022,43,2026-04-28,FOOD FOOD WHITTIER 3098*2632 28 APR,food food whittier,-403.87,19870.64,Groceries,True,test_split
+STMT022,44,2026-04-28,POS PURCHASE MUGG BEAN HATFIELD,mugg bean hatfield,-176.42,19694.22,Entertainment,True,test_split
+STMT022,45,2026-04-30,MONTHLY ACCOUNT FEE,monthly account fee,-65.0,19629.22,Other Services,True,generated

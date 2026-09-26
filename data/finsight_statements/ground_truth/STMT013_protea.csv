@@ -1,0 +1,45 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT013,1,2026-08-01,MASTERCARD CHICKEN LICKEN BROCKTON DATE POLOKWANE 2066*2074,mastercard chicken licken brockton date polokwane,-138.93,17987.53,Entertainment,True,test_split
+STMT013,2,2026-08-01,SASOL JOHANNESBURG 6369*1976 01 AUG,sasol johannesburg,-1047.18,16940.35,Transport,True,test_split
+STMT013,3,2026-08-02,POS PURCHASE BOXER SUP DDA PIN PUR CD FARMINGTON MENLYN 2071*6758,boxer sup dda pin pur cd farmington menlyn,-729.52,16210.83,Groceries,True,test_split
+STMT013,4,2026-08-02,CELL PREPAID SANDTON,cell prepaid sandton,-614.2,15596.63,Utilities,True,test_split
+STMT013,5,2026-08-02,POS PURCHASE FRESH MARKET 02 AUG,fresh market,-647.25,14949.38,Groceries,True,test_split
+STMT013,6,2026-08-02,DEBIT ORDER CELL AIRTIME ROSEBANK 2394*3296 02 AUG,cell airtime rosebank,-1236.35,13713.03,Utilities,True,test_split
+STMT013,7,2026-08-03,POS PURCHASE FOOD LION FOOD LION VIRGINIABEACH RANDBURG,food lion food lion virginiabeach randburg,-243.71,13469.32,Groceries,True,test_split
+STMT013,8,2026-08-03,POS PURCHASE FOOD LOVERS MARKET SALEM RD COVINGTON JOHANNESBURG,food lovers market salem rd covington johannesburg,-1426.13,12043.19,Groceries,True,test_split
+STMT013,9,2026-08-04,POS PURCHASE SAVE LOT 4162*7855,save lot,-706.78,11336.41,Groceries,True,test_split
+STMT013,10,2026-08-04,LEMONADE INSURANCE LEMONADE COM,lemonade insurance lemonade com,-554.64,10781.77,Other Services,True,test_split
+STMT013,11,2026-08-04,POS PURCHASE MCDONALDS SANDTON 04 AUG,mcdonalds sandton,-211.47,10570.3,Entertainment,True,test_split
+STMT013,12,2026-08-05,MAGTAPE DEBIT MEDIRITE PHARMACY CONTRIBUTION POLOKWANE,medirite pharmacy contribution polokwane,-513.21,10057.09,Health,True,test_split
+STMT013,13,2026-08-06,DEBIT ORDER MEDIRITE PHARMACY 7066*2523,medirite pharmacy,-520.69,9536.4,Health,True,test_split
+STMT013,14,2026-08-06,CARD PURCHASE ATM FEE 9471*7363 06 AUG,atm fee,-59.92,9476.48,Other Services,True,test_split
+STMT013,15,2026-08-07,DISNEY PLUS DATE 3092*1678,disney plus date,-261.19,9215.29,Entertainment,True,test_split
+STMT013,16,2026-08-07,POS PURCHASE EMPORIA DURBAN 7626*8743,emporia durban,-832.24,8383.05,Transport,True,test_split
+STMT013,17,2026-08-09,CARD PURCHASE FREDDY 5760*2123 09 AUG,freddy,-283.99,8099.06,Entertainment,True,test_split
+STMT013,18,2026-08-11,CARD PURCHASE CATAMOUNT TR CULLOWHEE 9983*6478,catamount tr cullowhee,-276.69,7822.37,Groceries,True,test_split
+STMT013,19,2026-08-11,CARD PURCHASE SASOL STR DURBAN 11 AUG,sasol str durban,-770.39,7051.98,Transport,True,test_split
+STMT013,20,2026-08-12,POS PURCHASE ESKOM,eskom,-1419.85,5632.13,Utilities,True,test_split
+STMT013,21,2026-08-13,POS PURCHASE BURGER KING 1938*8513,burger king,-62.45,5569.68,Entertainment,True,test_split
+STMT013,22,2026-08-14,CARD PURCHASE COF MERCHNT BIL MIDRAND 14 AUG,cof merchnt bil midrand,-1138.66,4431.02,Entertainment,True,test_split
+STMT013,23,2026-08-14,RALEY RALEY FOLSOM 9918*3695,raley raley folsom,-300.38,4130.64,Groceries,True,test_split
+STMT013,24,2026-08-14,KRISPY KREME,krispy kreme,-113.51,4017.13,Entertainment,True,test_split
+STMT013,25,2026-08-17,POS PURCHASE CHARLIE SUPERMA EAST ORANGE 8521*5133,charlie superma east orange,-330.24,3686.89,Groceries,True,test_split
+STMT013,26,2026-08-17,POS PURCHASE GIANT BETHLEHEM PADATE CAPE TOWN 1904*1241,giant bethlehem padate cape town,-331.71,3355.18,Groceries,True,test_split
+STMT013,27,2026-08-18,PIZZA HUT CAPE TOWN 6592*1151 18 AUG,pizza hut cape town,-364.48,2990.7,Entertainment,True,test_split
+STMT013,28,2026-08-20,POS PURCHASE VIDA CAFFE 4345*2711,vida caffe,-58.38,2932.32,Entertainment,True,test_split
+STMT013,29,2026-08-21,POS PURCHASE FOOD LION FOOD LION VIRGINIABEACH 2216*8084,food lion food lion virginiabeach,-59.51,2872.81,Groceries,True,test_split
+STMT013,30,2026-08-22,POS PURCHASE GROVE MARKET PERSEVERANCE AUSTIN CAPE TOWN,grove market perseverance austin cape town,-115.51,2757.3,Groceries,True,test_split
+STMT013,31,2026-08-23,DANDY MINI MART,dandy mini mart,-136.9,2620.4,Groceries,True,test_split
+STMT013,32,2026-08-24,POS PURCHASE DEBONAIRS PIZZA ROSEBANK 4421*3806,debonairs pizza rosebank,-60.69,2559.71,Entertainment,True,test_split
+STMT013,33,2026-08-24,ROMANS PIZZA VALLEY STREAM,romans pizza valley stream,-377.77,2181.94,Entertainment,True,test_split
+STMT013,34,2026-08-25,POS PURCHASE BIG BOY DELHI SOWETO 4943*7825,big boy delhi soweto,-123.3,2058.64,Entertainment,True,test_split
+STMT013,35,2026-08-25,SALARY ACACIA LOGISTICS,salary acacia logistics,41500.0,43558.64,Income,False,generated
+STMT013,36,2026-08-25,POS PURCHASE YALE CHECKERS STORE BLOEMFONTEIN,yale checkers store bloemfontein,-400.3,43158.34,Groceries,True,test_split
+STMT013,37,2026-08-26,TRANSFER TO SAVINGS,transfer savings,-2700.0,40458.34,Transfer,False,generated
+STMT013,38,2026-08-26,POS PURCHASE WIMPY ENGLEWOOD,wimpy englewood,-25.01,40433.33,Entertainment,True,test_split
+STMT013,39,2026-08-27,CHECKERS,checkers,-183.0,40250.33,Groceries,True,test_split
+STMT013,40,2026-08-29,POS PURCHASE SASOL ROCHESTER 7111*8905,sasol rochester,-348.96,39901.37,Transport,True,test_split
+STMT013,41,2026-08-30,MURPHY ATWALM WHITFIELD DRIVE COLUMBUSIN 7650*3206,murphy atwalm whitfield drive columbusin,-282.88,39618.49,Transport,True,test_split
+STMT013,42,2026-08-31,MONTHLY ACCOUNT FEE,monthly account fee,-69.0,39549.49,Other Services,True,generated
+STMT013,43,2026-08-31,COURTESY PAY FEE 6607*2119,courtesy pay fee,-284.13,39265.36,Other Services,True,test_split
+STMT013,44,2026-08-31,POS PURCHASE ATM FEE 9879*4527 31 AUG,atm fee,-47.42,39217.94,Other Services,True,test_split

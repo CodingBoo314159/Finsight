@@ -1,0 +1,46 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT030,1,2026-06-01,DEBIT ORDER SCHOOL FEES DEPT EDUC TEXTBOOKS POLOKWANE 01 JUN,school fees dept educ textbooks polokwane,-2282.18,19801.92,Education,True,test_split
+STMT030,2,2026-06-01,INTERNET PMT TO AMPATH LAB 8793*5907 01 JUN,ampath lab,-261.38,19540.54,Health,True,test_split
+STMT030,3,2026-06-01,CARD PURCHASE GRID 5622*7699,grid,-234.22,19306.32,Utilities,True,test_split
+STMT030,4,2026-06-02,DEBIT ORDER ESKOM 4546*8614 02 JUN,eskom,-1101.88,18204.44,Utilities,True,test_split
+STMT030,5,2026-06-04,PEPBOYS STORE,pepboys store,-657.22,17547.22,Other Services,True,test_split
+STMT030,6,2026-06-05,POS PURCHASE PIN USE FEE CHECKERS HYPER EAST MARKET BLDG BLOEMFONTEIN,pin use fee checkers hyper east market bldg bloemfontein,-42.75,17504.47,Groceries,True,test_split
+STMT030,7,2026-06-05,POS PURCHASE SAVE LOT,save lot,-161.45,17343.02,Groceries,True,test_split
+STMT030,8,2026-06-05,POS PURCHASE ENGEN BRILLION 4977*2652,engen brillion,-568.57,16774.45,Transport,True,test_split
+STMT030,9,2026-06-06,DEBIT ORDER FBS GREENWOOD UD 5310*6082,fbs greenwood ud,-375.18,16399.27,Utilities,True,test_split
+STMT030,10,2026-06-06,POS PURCHASE PIZZA HUT CENTURION 2345*6730,pizza hut centurion,-418.17,15981.1,Entertainment,True,test_split
+STMT030,11,2026-06-06,BRAUMS STORE,braums store,-98.6,15882.5,Entertainment,True,test_split
+STMT030,12,2026-06-07,POS PURCHASE CHECKERS INTERSTATE GEORGETOWN MIDRAND,checkers interstate georgetown midrand,-985.67,14896.83,Groceries,True,test_split
+STMT030,13,2026-06-08,CARD PURCHASE FOOD LION FOOD LION VIRGINIABEACH,food lion food lion virginiabeach,-541.0,14355.83,Groceries,True,test_split
+STMT030,14,2026-06-08,POS PURCHASE MUGG BEAN STORE ORLANDO 08 JUN,mugg bean store orlando,-99.38,14256.45,Entertainment,True,test_split
+STMT030,15,2026-06-08,CARD PURCHASE TOTALENERGIES BRILLION 3221*7252,totalenergies brillion,-427.25,13829.2,Transport,True,test_split
+STMT030,16,2026-06-09,WIMPY NORC POLOKWANE 1455*5568 09 JUN,wimpy norc polokwane,-90.04,13739.16,Entertainment,True,test_split
+STMT030,17,2026-06-11,POS PURCHASE VIDA CAFFE 3723*1116 11 JUN,vida caffe,-165.42,13573.74,Entertainment,True,test_split
+STMT030,18,2026-06-12,POS PURCHASE OVERDRAFT FEE DETAILS RAIN PAY 8878*2159,overdraft fee details rain pay,-370.75,13202.99,Other Services,True,test_split
+STMT030,19,2026-06-12,POS PURCHASE TOTALENERGIES 9232*3379,totalenergies,-573.12,12629.87,Transport,True,test_split
+STMT030,20,2026-06-14,POS PURCHASE ATM FEE,atm fee,-47.42,12582.45,Other Services,True,test_split
+STMT030,21,2026-06-14,CARD PURCHASE FSI CITY JOHANNESBURG LOCAL,fsi city johannesburg local,-343.24,12239.21,Utilities,True,test_split
+STMT030,22,2026-06-15,POS PURCHASE WOOLWORTHS FOOD COM 3657*9309 15 JUN,woolworths food com,-365.11,11874.1,Groceries,True,test_split
+STMT030,23,2026-06-15,CARD PURCHASE WOOLWORTHS FOOD COM PARKWAYDATE RANDBURG,woolworths food com parkwaydate randburg,-35.24,11838.86,Groceries,True,test_split
+STMT030,24,2026-06-15,BOXER SUP JOHANNESBURG 8314*1165,boxer sup johannesburg,-1907.56,9931.3,Groceries,True,test_split
+STMT030,25,2026-06-16,CARD PURCHASE SPOTIFY RANDBURG,spotify randburg,-237.06,9694.24,Entertainment,True,test_split
+STMT030,26,2026-06-17,POS PURCHASE INSUFFICIENT FUNDS CHARGE DON QUIJOTE HONO SERIAL 17 JUN,insufficient funds charge don quijote hono serial,-304.21,9390.03,Other Services,True,test_split
+STMT030,27,2026-06-18,LOT SHELL 7956*9091 18 JUN,lot shell,-560.04,8829.99,Transport,True,test_split
+STMT030,28,2026-06-18,CARD PURCHASE SPOTIFY 9029*2394,spotify,-141.8,8688.19,Entertainment,True,test_split
+STMT030,29,2026-06-20,POS PURCHASE SASOL RANDBURG 20 JUN,sasol randburg,-635.51,8052.68,Transport,True,test_split
+STMT030,30,2026-06-20,CARD PURCHASE RACETRAC RACETRAC MENLYN 9918*6890,racetrac racetrac menlyn,-239.7,7812.98,Transport,True,test_split
+STMT030,31,2026-06-21,POS PURCHASE FSI EKURHULENI ELECTRICITY LOCAL,fsi ekurhuleni electricity local,-238.6,7574.38,Utilities,True,test_split
+STMT030,32,2026-06-21,POS PURCHASE DDA QUICK CHEK FOOD PHILLIPSBURG,dda quick chek food phillipsburg,-381.96,7192.42,Groceries,True,test_split
+STMT030,33,2026-06-21,AFFIRM PAY JY 9994*8028 21 JUN,affirm pay jy,-313.68,6878.74,Utilities,True,test_split
+STMT030,34,2026-06-22,AVA PRETORIA 2895*1585,ava pretoria,-288.12,6590.62,Entertainment,True,test_split
+STMT030,35,2026-06-22,VILLAGE MARKET,village market,-491.29,6099.33,Groceries,True,test_split
+STMT030,36,2026-06-23,BP CENTURION,bp centurion,-582.82,5516.51,Transport,True,test_split
+STMT030,37,2026-06-25,SALARY BAOBAB CONSULTING,salary baobab consulting,27300.0,32816.51,Income,False,generated
+STMT030,38,2026-06-26,POS PURCHASE WOOLWORTHS COM SANDTON,woolworths com sandton,-541.61,32274.9,Groceries,True,test_split
+STMT030,39,2026-06-26,TRANSFER TO SAVINGS,transfer savings,-2600.0,29674.9,Transfer,False,generated
+STMT030,40,2026-06-27,POS PURCHASE SPARKS COSTCO GAS DURBAN 8995*1124 27 JUN,sparks costco gas durban,-1962.2,27712.7,Transport,True,test_split
+STMT030,41,2026-06-28,POS PURCHASE WOOLWORTHS FOOD SOWETO 5561*8842,woolworths food soweto,-837.92,26874.78,Groceries,True,test_split
+STMT030,42,2026-06-28,POS PURCHASE SEATTLE COFFEE 28 JUN,seattle coffee,-54.49,26820.29,Entertainment,True,test_split
+STMT030,43,2026-06-29,DIRECT FEE 8076*8019,direct fee,-51.47,26768.82,Entertainment,True,test_split
+STMT030,44,2026-06-30,MONTHLY ACCOUNT FEE,monthly account fee,-65.0,26703.82,Other Services,True,generated
+STMT030,45,2026-06-30,CARD PURCHASE DUNSTAN SCARBOROUGH 1400*1903,dunstan scarborough,-80.14,26623.68,Entertainment,True,test_split

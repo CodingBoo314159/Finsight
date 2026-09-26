@@ -1,0 +1,46 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT009,1,2026-04-01,EFT PAYMENT MONTESSORI PRE SCHOOL TUITION 01 APR,montessori pre school tuition,-962.45,17169.29,Education,True,test_split
+STMT009,2,2026-04-01,CARD PURCHASE COURTESY PAY FEE,courtesy pay fee,-284.13,16885.16,Other Services,True,test_split
+STMT009,3,2026-04-02,DEBIT ORDER MEDIRITE PHARMACY SANDTON 6066*2801,medirite pharmacy sandton,-871.04,16014.12,Health,True,test_split
+STMT009,4,2026-04-02,POS PURCHASE EVERYDAY STOP RANDBURG 6586*6430 02 APR,everyday stop randburg,-100.22,15913.9,Groceries,True,test_split
+STMT009,5,2026-04-03,POS PURCHASE CHECKERS SANDTON,checkers sandton,-1350.3,14563.6,Groceries,True,test_split
+STMT009,6,2026-04-03,MAGTAPE DEBIT MEDIRITE PHARMACY SCRIPT SOWETO 03 APR,medirite pharmacy script soweto,-448.93,14114.67,Health,True,test_split
+STMT009,7,2026-04-03,CARD PURCHASE POSHMARK CENTURION,poshmark centurion,-489.1,13625.57,Other Services,True,test_split
+STMT009,8,2026-04-03,NORTHSIDE MARKET,northside market,-574.65,13050.92,Groceries,True,test_split
+STMT009,9,2026-04-04,CARD PURCHASE TRADER JOE TRADE LOS ES JOHANNESBURG,trader joe trade los es johannesburg,-401.69,12649.23,Groceries,True,test_split
+STMT009,10,2026-04-04,INTERNET PMT TO VIRGIN ACTIVE CONTRIBUTION POLOKWANE 5558*4196,virgin active contribution polokwane,-63.49,12585.74,Health,True,test_split
+STMT009,11,2026-04-06,EFT PAYMENT AMPATH LAB PRETORIA 2159*3515,ampath lab pretoria,-175.06,12410.68,Health,True,test_split
+STMT009,12,2026-04-06,POS PURCHASE WITHDRWL PHILLIPS FOO MIDRAND FEE,withdrwl phillips foo midrand fee,-176.03,12234.65,Transport,True,test_split
+STMT009,13,2026-04-06,POS PURCHASE WENDYS HEMPSTEAD PRETORIA 5880*3579 06 APR,wendys hempstead pretoria,-247.68,11986.97,Entertainment,True,test_split
+STMT009,14,2026-04-06,POS PURCHASE SPAR WEST PLAINS 6175*5093,spar west plains,-46.17,11940.8,Groceries,True,test_split
+STMT009,15,2026-04-06,CHECKERS COM MENLYN 6307*6567,checkers com menlyn,-1183.92,10756.88,Groceries,True,test_split
+STMT009,16,2026-04-07,CHECKERS COM 07 APR,checkers com,-981.95,9774.93,Groceries,True,test_split
+STMT009,17,2026-04-07,CARD PURCHASE DEBONAIRS PIZZA AMARILLO 5874*5696 07 APR,debonairs pizza amarillo,-32.22,9742.71,Entertainment,True,test_split
+STMT009,18,2026-04-10,CHECKERS HYPER SUPER CE MILTON JOHANNESBURG 10 APR,checkers hyper super ce milton johannesburg,-1006.92,8735.79,Groceries,True,test_split
+STMT009,19,2026-04-10,MURPHY ATWALMART BOAZ 8207*9575,murphy atwalmart boaz,-427.25,8308.54,Transport,True,test_split
+STMT009,20,2026-04-10,CARD PURCHASE MARKET COUNTYPANAMA CITY,market countypanama city,-268.53,8040.01,Groceries,True,test_split
+STMT009,21,2026-04-10,POS PURCHASE MR FOOD WENDYS POLOKWANE 4719*1123 10 APR,mr food wendys polokwane,-344.63,7695.38,Entertainment,True,test_split
+STMT009,22,2026-04-11,CARD PURCHASE SEATTLE COFFEE STORE ORLANDO CENTURION 7882*8291,seattle coffee store orlando centurion,-99.38,7596.0,Entertainment,True,test_split
+STMT009,23,2026-04-13,POS PURCHASE PRIZEPICKS,prizepicks,-130.99,7465.01,Entertainment,True,test_split
+STMT009,24,2026-04-13,CARD PURCHASE CHK PURCH SIG TOTALENERGIES JACKSON 13 APR,chk purch sig totalenergies jackson,-1140.58,6324.43,Transport,True,test_split
+STMT009,25,2026-04-14,POS PURCHASE TIME PM DATE CHECKERS SUPER CELEXINGTON 14 APR,time pm date checkers super celexington,-577.92,5746.51,Groceries,True,test_split
+STMT009,26,2026-04-15,CARD PURCHASE BUC EE ROBERTSDALE 15 APR,buc ee robertsdale,-425.71,5320.8,Groceries,True,test_split
+STMT009,27,2026-04-16,CARD PURCHASE CONOCO,conoco,-707.06,4613.74,Transport,True,test_split
+STMT009,28,2026-04-16,POS PURCHASE PUBLIX SUPER GEO CONYERS PIN CENTURION 9520*8735,publix super geo conyers pin centurion,-602.63,4011.11,Groceries,True,test_split
+STMT009,29,2026-04-16,CARD PURCHASE WAL SPAR SUPER RANDBURG,wal spar super randburg,-1059.53,2951.58,Groceries,True,test_split
+STMT009,30,2026-04-17,CARD PURCHASE RALPHS CANYON RIVERSIDE CAPE TOWN 7943*4236 17 APR,ralphs canyon riverside cape town,-355.17,2596.41,Groceries,True,test_split
+STMT009,31,2026-04-17,POS PURCHASE PLAYSTATION NETWOR CENTURION 1826*9887 17 APR,playstation networ centurion,-172.18,2424.23,Other Services,True,test_split
+STMT009,32,2026-04-19,FRIENDLY GROCER HARDEEVILLE PIN SOWETO,friendly grocer hardeeville pin soweto,-515.93,1908.3,Groceries,True,test_split
+STMT009,33,2026-04-20,POS PURCHASE PUBLIX SNELLVILLE BLOEMFONTEIN 7325*7567,publix snellville bloemfontein,-93.13,1815.17,Groceries,True,test_split
+STMT009,34,2026-04-23,POS PURCHASE PICK PAY SUPER PEKIN 5337*7401 23 APR,pick pay super pekin,-1917.77,-102.6,Groceries,True,test_split
+STMT009,35,2026-04-24,POSHMARK,poshmark,-295.44,-398.04,Other Services,True,test_split
+STMT009,36,2026-04-25,SALARY SUNVELD ENGINEERING,salary sunveld engineering,33000.0,32601.96,Income,False,generated
+STMT009,37,2026-04-26,TRANSFER TO SAVINGS,transfer savings,-600.0,32001.96,Transfer,False,generated
+STMT009,38,2026-04-26,POS PURCHASE PIZZA HUT 26 APR,pizza hut,-82.81,31919.15,Entertainment,True,test_split
+STMT009,39,2026-04-27,PIQUA SPAR EXPRESS,piqua spar express,-498.94,31420.21,Groceries,True,test_split
+STMT009,40,2026-04-28,CHECKERS COM,checkers com,-277.51,31142.7,Groceries,True,test_split
+STMT009,41,2026-04-30,POS PURCHASE NSF PAID ITEM FEE 30 APR,nsf paid item fee,-345.88,30796.82,Other Services,True,test_split
+STMT009,42,2026-04-30,POS PURCHASE WOOLWORTHS COM 7553*5174,woolworths com,-254.03,30542.79,Groceries,True,test_split
+STMT009,43,2026-04-30,ATM FEE MIDRAND 4297*5003,atm fee midrand,-47.42,30495.37,Other Services,True,test_split
+STMT009,44,2026-04-30,MONTHLY ACCOUNT FEE,monthly account fee,-65.0,30430.37,Other Services,True,generated
+STMT009,45,2026-04-30,CARD PURCHASE GRID 30 APR,grid,-153.71,30276.66,Utilities,True,test_split

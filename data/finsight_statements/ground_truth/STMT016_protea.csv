@@ -1,0 +1,50 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT016,1,2026-04-01,POS PURCHASE IC WOOLWORTHS FOOD 4863*8288,ic woolworths food,-529.27,18676.52,Entertainment,True,test_split
+STMT016,2,2026-04-02,CSC SERVICEWORK FORT WORTH 5823*9331,csc servicework fort worth,-59.92,18616.6,Other Services,True,test_split
+STMT016,3,2026-04-02,DBT CRD CORNER MART NATC NATCHEZ CAPE TOWN,dbt crd corner mart natc natchez cape town,-254.03,18362.57,Groceries,True,test_split
+STMT016,4,2026-04-02,DEBIT ORDER ESKOM 2263*8380 02 APR,eskom,-761.47,17601.1,Utilities,True,test_split
+STMT016,5,2026-04-03,ATM FEE 3639*9759,atm fee,-47.42,17553.68,Other Services,True,test_split
+STMT016,6,2026-04-03,POS PURCHASE SEATTLE COFFEE MENLYN 5348*3792,seattle coffee menlyn,-243.21,17310.47,Entertainment,True,test_split
+STMT016,7,2026-04-04,WINCO FOODS BAKERSFIELD CAUS DURBAN 1186*7110,winco foods bakersfield caus durban,-629.15,16681.32,Groceries,True,test_split
+STMT016,8,2026-04-05,CARD PURCHASE SP TOADANDCO HTTPSTOADANDCCA 4795*5320,sp toadandco httpstoadandcca,-1148.65,15532.67,Other Services,True,test_split
+STMT016,9,2026-04-05,POS PURCHASE FSI CITY TSHWANE ELECTRICITY LOCAL HATFIELD,fsi city tshwane electricity local hatfield,-275.59,15257.08,Utilities,True,test_split
+STMT016,10,2026-04-05,MURPHY ATWAL LYNN HAVEN,murphy atwal lynn haven,-676.79,14580.29,Transport,True,test_split
+STMT016,11,2026-04-05,POS PURCHASE SIG SERVICE FEE,sig service fee,-73.9,14506.39,Other Services,True,test_split
+STMT016,12,2026-04-06,TOTALENERGIES ROSEBANK 1709*8125,totalenergies rosebank,-819.27,13687.12,Transport,True,test_split
+STMT016,13,2026-04-06,LAVISTA ROAD LAVISTA ROAD FO ROSEBANK,lavista road lavista road fo rosebank,-101.21,13585.91,Entertainment,True,test_split
+STMT016,14,2026-04-06,INTERNET PMT TO MEDIRITE PHARMACY 5008*8234,medirite pharmacy,-616.68,12969.23,Health,True,test_split
+STMT016,15,2026-04-07,DEBIT ORDER VIRGIN ACTIVE 07 APR,virgin active,-200.88,12768.35,Health,True,test_split
+STMT016,16,2026-04-08,CARD PURCHASE FAMILY SOWETO,family soweto,-397.76,12370.59,Groceries,True,test_split
+STMT016,17,2026-04-09,POS PURCHASE SHOPRITE ADAMSVILLE 4112*2387,shoprite adamsville,-679.23,11691.36,Groceries,True,test_split
+STMT016,18,2026-04-10,CARD PURCHASE ZAPATA FOOD LOVERS MARKET LLC 1423*1363,zapata food lovers market llc,-181.24,11510.12,Groceries,True,test_split
+STMT016,19,2026-04-10,MEDIRITE PHARMACY POLOKWANE 7130*3581 10 APR,medirite pharmacy polokwane,-771.78,10738.34,Health,True,test_split
+STMT016,20,2026-04-10,POS PURCHASE PAYPAL STEAM GAMES BLOEMFONTEIN 6556*5484,paypal steam games bloemfontein,-651.23,10087.11,Entertainment,True,test_split
+STMT016,21,2026-04-11,POS PURCHASE SPUR,spur,-42.33,10044.78,Entertainment,True,test_split
+STMT016,22,2026-04-12,POS PURCHASE DEBONAIRS PIZZA MC GREGOR DELIA SOTO 8259*8439,debonairs pizza mc gregor delia soto,-72.07,9972.71,Entertainment,True,test_split
+STMT016,23,2026-04-12,CARD PURCHASE DBT RAISING CANES,dbt raising canes,-158.24,9814.47,Entertainment,True,test_split
+STMT016,24,2026-04-12,POS PURCHASE MUGG BEAN,mugg bean,-221.45,9593.02,Entertainment,True,test_split
+STMT016,25,2026-04-13,POS PURCHASE DBT CRD GEICO AUTO,dbt crd geico auto,-944.93,8648.09,Other Services,True,test_split
+STMT016,26,2026-04-13,PUFFGOPUFF,puffgopuff,-175.15,8472.94,Groceries,True,test_split
+STMT016,27,2026-04-14,POS PURCHASE WOOLWORTHS FOOD WEST PALM BEAFL CENTURION 14 APR,woolworths food west palm beafl centurion,-1040.79,7432.15,Groceries,True,test_split
+STMT016,28,2026-04-15,POS PURCHASE COURTESY PAY FEE 1234*5260 15 APR,courtesy pay fee,-249.45,7182.7,Other Services,True,test_split
+STMT016,29,2026-04-15,POS PURCHASE AMPATH LAB CONSULTATION 5279*9978,ampath lab consultation,-149.56,7033.14,Health,True,test_split
+STMT016,30,2026-04-17,POS PURCHASE KRISPY KREME MORRISTOWN,krispy kreme morristown,-99.88,6933.26,Entertainment,True,test_split
+STMT016,31,2026-04-17,POS PURCHASE EL TIGRE 5257*3695 17 APR,el tigre,-617.15,6316.11,Groceries,True,test_split
+STMT016,32,2026-04-18,CARD PURCHASE IAL CAR WASH FARMINGTON,ial car wash farmington,-147.77,6168.34,Other Services,True,test_split
+STMT016,33,2026-04-19,POS PURCHASE CENTS STORES MIDRAND 19 APR,cents stores midrand,-133.98,6034.36,Other Services,True,test_split
+STMT016,34,2026-04-20,POS PURCHASE MONTHLY SERVICE CHARGE VR BLOEMFONTEIN 2329*5672 20 APR,monthly service charge vr bloemfontein,-141.44,5892.92,Other Services,True,test_split
+STMT016,35,2026-04-21,POS PURCHASE ATM FEE PRETORIA 4404*8537,atm fee pretoria,-47.42,5845.5,Other Services,True,test_split
+STMT016,36,2026-04-21,POS PURCHASE SHOPRITE SUP,shoprite sup,-282.87,5562.63,Groceries,True,test_split
+STMT016,37,2026-04-22,POS PURCHASE MICROSOFT 3077*3731,microsoft,-158.33,5404.3,Other Services,True,test_split
+STMT016,38,2026-04-22,POS PURCHASE COSTCO WHSE EUGENE DURBAN 22 APR,costco whse eugene durban,-55.75,5348.55,Other Services,True,test_split
+STMT016,39,2026-04-23,MUGG BEAN BLOEMFONTEIN 4745*8686,mugg bean bloemfontein,-138.21,5210.34,Entertainment,True,test_split
+STMT016,40,2026-04-24,MICROSOFT MICROSOF MSBILL INFO 6089*8533,microsoft microsof msbill info,-172.18,5038.16,Other Services,True,test_split
+STMT016,41,2026-04-25,CARD PURCHASE APPLETON 8141*5970,appleton,-106.33,4931.83,Entertainment,True,test_split
+STMT016,42,2026-04-25,SALARY BAOBAB CONSULTING,salary baobab consulting,39400.0,44331.83,Income,False,generated
+STMT016,43,2026-04-26,TRANSFER TO SAVINGS,transfer savings,-1100.0,43231.83,Transfer,False,generated
+STMT016,44,2026-04-27,POS PURCHASE SHOPRITE GR LAWRENCEVILLE CAPE TOWN 8099*6928 27 APR,shoprite gr lawrenceville cape town,-337.01,42894.82,Groceries,True,test_split
+STMT016,45,2026-04-28,POLOKWANE 7726*1683,polokwane,-34.46,42860.36,Groceries,True,test_split
+STMT016,46,2026-04-30,MONTHLY ACCOUNT FEE,monthly account fee,-65.0,42795.36,Other Services,True,generated
+STMT016,47,2026-04-30,CARD PURCHASE DD DOORDASH SPAR SOWETO 4964*1063,dd doordash spar soweto,-709.37,42085.99,Groceries,True,test_split
+STMT016,48,2026-04-30,POS PURCHASE STARS CHERRY HILL,stars cherry hill,-276.23,41809.76,Entertainment,True,test_split
+STMT016,49,2026-04-30,POS PURCHASE CHICKEN LICKEN COVINGTON BLOEMFONTEIN 6499*6803,chicken licken covington bloemfontein,-111.26,41698.5,Entertainment,True,test_split

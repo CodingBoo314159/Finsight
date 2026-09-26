@@ -1,0 +1,36 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT002,1,2026-09-01,MAGTAPE DEBIT SCHOOL FEES DEPT EDUC STUDENT FEES RANDBURG 01 SEP,school fees dept educ student fees randburg,-2103.22,15386.87,Education,True,test_split
+STMT002,2,2026-09-04,DEBIT ORDER AMPATH LAB CENTURION 9650*2329,ampath lab centurion,-263.88,15122.99,Health,True,test_split
+STMT002,3,2026-09-04,INTERNET PMT TO CITY TSHWANE ELECTRICITY 9293*7968,city tshwane electricity,-844.82,14278.17,Utilities,True,test_split
+STMT002,4,2026-09-05,CARD PURCHASE BOJANGLES HOPE MILLS 4043*4307,bojangles hope mills,-261.19,14016.98,Entertainment,True,test_split
+STMT002,5,2026-09-06,TRADER JOE TRADE LOS ES 9309*2294,trader joe trade los es,-366.66,13650.32,Groceries,True,test_split
+STMT002,6,2026-09-06,DEBIT ORDER AMPATH LAB CONSULTATION,ampath lab consultation,-235.38,13414.94,Health,True,test_split
+STMT002,7,2026-09-07,POS PURCHASE PIN CHECKERS SUP JOHANNESBURG VUS,pin checkers sup johannesburg vus,-551.36,12863.58,Groceries,True,test_split
+STMT002,8,2026-09-08,GULF VERNON POLOKWANE,gulf vernon polokwane,-233.56,12630.02,Transport,True,test_split
+STMT002,9,2026-09-11,AMPATH LAB CONSULTATION 2259*4386,ampath lab consultation,-1426.54,11203.48,Health,True,test_split
+STMT002,10,2026-09-13,DBT CRD SHELL NEW CASTLE DURBAN 8533*8591,dbt crd shell new castle durban,-989.72,10213.76,Transport,True,test_split
+STMT002,11,2026-09-13,POS PURCHASE NONTD ATM FEE,nontd atm fee,-96.96,10116.8,Other Services,True,test_split
+STMT002,12,2026-09-13,POS PURCHASE SHOPRITE FREDERICKBURG,shoprite frederickburg,-529.81,9586.99,Groceries,True,test_split
+STMT002,13,2026-09-15,CARD PURCHASE MONTHLY MAINTENANCE FEE,monthly maintenance fee,-117.06,9469.93,Other Services,True,test_split
+STMT002,14,2026-09-15,POS PURCHASE MUGG BEAN,mugg bean,-173.81,9296.12,Entertainment,True,test_split
+STMT002,15,2026-09-16,POS PURCHASE ATM FEE 2163*6083,atm fee,-96.96,9199.16,Other Services,True,test_split
+STMT002,16,2026-09-16,IASSECRET COM JOHANNESBURG 9638*9628,iassecret com johannesburg,-696.6,8502.56,Other Services,True,test_split
+STMT002,17,2026-09-17,POS PURCHASE WOOLWORTHS FOOD COM CENTURION 2753*2571 17 SEP,woolworths food com centurion,-940.13,7562.43,Groceries,True,test_split
+STMT002,18,2026-09-18,POS PURCHASE SUPER FOODS 6196*2382 18 SEP,super foods,-621.24,6941.19,Groceries,True,test_split
+STMT002,19,2026-09-19,POS PURCHASE SHELL GAS 19 SEP,shell gas,-351.29,6589.9,Transport,True,test_split
+STMT002,20,2026-09-23,POS PURCHASE BURGER KING MELBOURNE 2590*7613 23 SEP,burger king melbourne,-535.18,6054.72,Entertainment,True,test_split
+STMT002,21,2026-09-23,CARD PURCHASE NFL 2646*7171 23 SEP,nfl,-125.66,5929.06,Entertainment,True,test_split
+STMT002,22,2026-09-24,CHICKEN LICKEN CENTURION,chicken licken centurion,-166.11,5762.95,Entertainment,True,test_split
+STMT002,23,2026-09-24,CARD PURCHASE CKO PATREON MEMBER CAUS PRETORIA,cko patreon member caus pretoria,-411.19,5351.76,Entertainment,True,test_split
+STMT002,24,2026-09-24,WOOLWORTHS FOOD HATFIELD 5437*2633 24 SEP,woolworths food hatfield,-178.85,5172.91,Groceries,True,test_split
+STMT002,25,2026-09-25,CARD PURCHASE WOOLWORTHS,woolworths,-2546.34,2626.57,Groceries,True,test_split
+STMT002,26,2026-09-25,SALARY BAOBAB CONSULTING,salary baobab consulting,28600.0,31226.57,Income,False,generated
+STMT002,27,2026-09-25,POS PURCHASE SASOL,sasol,-1100.46,30126.11,Transport,True,test_split
+STMT002,28,2026-09-26,TRANSFER TO SAVINGS,transfer savings,-1300.0,28826.11,Transfer,False,generated
+STMT002,29,2026-09-26,CARD PURCHASE SASOL TUSCALOOSA 7174*6755 26 SEP,sasol tuscaloosa,-215.76,28610.35,Transport,True,test_split
+STMT002,30,2026-09-27,POS PURCHASE SPAR ROCHESTER 27 SEP,spar rochester,-890.05,27720.3,Groceries,True,test_split
+STMT002,31,2026-09-27,POS PURCHASE SCHOOL FEES DEPT EDUC TUITION POLOKWANE 5303*6293,school fees dept educ tuition polokwane,-2018.59,25701.71,Education,True,test_split
+STMT002,32,2026-09-28,ATM FEE CAPE TOWN 7495*6310 28 SEP,atm fee cape town,-96.96,25604.75,Other Services,True,test_split
+STMT002,33,2026-09-28,BURLINGTON STO BURLINGTON STORES MOINES 3121*6395,burlington sto burlington stores moines,-270.34,25334.41,Other Services,True,test_split
+STMT002,34,2026-09-30,MONTHLY ACCOUNT FEE,monthly account fee,-99.0,25235.41,Other Services,True,generated
+STMT002,35,2026-09-30,POS PURCHASE FOOD LION RALEIGH DURBAN 30 SEP,food lion raleigh durban,-130.97,25104.44,Groceries,True,test_split

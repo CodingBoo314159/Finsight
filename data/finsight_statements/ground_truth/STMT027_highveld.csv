@@ -1,0 +1,54 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT027,1,2026-09-01,DEBIT ORDER CELL RANDBURG 3158*6722,cell randburg,-1414.12,28196.89,Utilities,True,test_split
+STMT027,2,2026-09-01,DDA PUR AFLAC JOHANNESBURG 01 SEP,dda pur aflac johannesburg,-299.87,27897.02,Other Services,True,test_split
+STMT027,3,2026-09-02,POS PURCHASE SILVERMAN THEOLOGO,silverman theologo,-1201.6,26695.42,Entertainment,True,test_split
+STMT027,4,2026-09-02,POS PURCHASE DDA SHOPRITE SUP CENTRAL,dda shoprite sup central,-1850.16,24845.26,Groceries,True,test_split
+STMT027,5,2026-09-02,CARD PURCHASE MERCHANT MSAE AURORA 7514*4445,merchant msae aurora,-172.02,24673.24,Groceries,True,test_split
+STMT027,6,2026-09-03,MAGTAPE DEBIT SCHOOL FEES DEPT EDUC STUDENT FEES,school fees dept educ student fees,-3003.92,21669.32,Education,True,test_split
+STMT027,7,2026-09-04,CP PENNDOT RID BRIDGEVILLE 3261*6606,cp penndot rid bridgeville,-480.24,21189.08,Entertainment,True,test_split
+STMT027,8,2026-09-05,POS PURCHASE SEATTLE COFFEE 6465*1187 05 SEP,seattle coffee,-67.89,21121.19,Entertainment,True,test_split
+STMT027,9,2026-09-05,POS PURCHASE ATM FEE MENLYN 5760*6634,atm fee menlyn,-96.96,21024.23,Other Services,True,test_split
+STMT027,10,2026-09-06,POS PURCHASE SHOPRITE 9705*7820,shoprite,-342.97,20681.26,Groceries,True,test_split
+STMT027,11,2026-09-07,CARD PURCHASE ASTRON ENERGY GETGO,astron energy getgo,-389.67,20291.59,Transport,True,test_split
+STMT027,12,2026-09-08,POS PURCHASE MICROSOFT,microsoft,-233.53,20058.06,Other Services,True,test_split
+STMT027,13,2026-09-08,POS PURCHASE SPOTIFY ROSEBANK 8584*2058,spotify rosebank,-125.66,19932.4,Entertainment,True,test_split
+STMT027,14,2026-09-09,POS PURCHASE BP ROCHESTER 09 SEP,bp rochester,-603.24,19329.16,Transport,True,test_split
+STMT027,15,2026-09-10,POS PURCHASE BIRKENSTOCK,birkenstock,-975.02,18354.14,Other Services,True,test_split
+STMT027,16,2026-09-10,POS PURCHASE ENGEN FALLS PADATE 5944*9179,engen falls padate,-875.51,17478.63,Transport,True,test_split
+STMT027,17,2026-09-11,POS PURCHASE WOOLWORTHS FOOD BLOEMFONTEIN 8881*9833 11 SEP,woolworths food bloemfontein,-330.24,17148.39,Groceries,True,test_split
+STMT027,18,2026-09-11,POS PURCHASE WOOLWORTHS FOOD,woolworths food,-1296.07,15852.32,Groceries,True,test_split
+STMT027,19,2026-09-11,CARD PURCHASE CASH TOOT TOTUM AMARILLO PRETORIA 7179*4099,cash toot totum amarillo pretoria,-797.32,15055.0,Transport,True,test_split
+STMT027,20,2026-09-12,POS PURCHASE CASEYS SHOQCHISAGO MNUS HATFIELD,caseys shoqchisago mnus hatfield,-449.64,14605.36,Transport,True,test_split
+STMT027,21,2026-09-12,CARD PURCHASE RALPHS CANYON RIVERSIDE 7775*3923 12 SEP,ralphs canyon riverside,-469.12,14136.24,Groceries,True,test_split
+STMT027,22,2026-09-13,CARD PURCHASE SHELL 7487*5081 13 SEP,shell,-283.24,13853.0,Transport,True,test_split
+STMT027,23,2026-09-14,POS PURCHASE PICK PAY AUBURN DURBAN,pick pay auburn durban,-1234.14,12618.86,Groceries,True,test_split
+STMT027,24,2026-09-16,POS PURCHASE SPOTIFY 7993*2279,spotify,-148.16,12470.7,Entertainment,True,test_split
+STMT027,25,2026-09-16,CARD PURCHASE SAVE LOT,save lot,-686.86,11783.84,Groceries,True,test_split
+STMT027,26,2026-09-16,CARD PURCHASE TIME PM DATE ENGEN SERVICE STAPINEBLUFF SOWETO 7037*8405,time pm date engen service stapinebluff soweto,-494.18,11289.66,Transport,True,test_split
+STMT027,27,2026-09-16,CARD PURCHASE BURGER HOLLYWOOD CAPE TOWN 6414*3585,burger hollywood cape town,-142.12,11147.54,Entertainment,True,test_split
+STMT027,28,2026-09-19,POS PURCHASE CONVENIENCE MART CAPE TOWN 5438*1159 19 SEP,convenience mart cape town,-219.95,10927.59,Groceries,True,test_split
+STMT027,29,2026-09-20,POS PURCHASE FORT 2074*1690,fort,-421.53,10506.06,Entertainment,True,test_split
+STMT027,30,2026-09-20,JACK CENTREVILLE 7056*4333,jack centreville,-363.75,10142.31,Entertainment,True,test_split
+STMT027,31,2026-09-20,POS PURCHASE CELL 6348*4376 20 SEP,cell,-287.88,9854.43,Utilities,True,test_split
+STMT027,32,2026-09-21,POS PURCHASE SASOL HATFIELD 8143*4769,sasol hatfield,-98.74,9755.69,Transport,True,test_split
+STMT027,33,2026-09-22,POS PURCHASE COF MERCHNT BIL 3803*5450,cof merchnt bil,-1071.87,8683.82,Entertainment,True,test_split
+STMT027,34,2026-09-22,POS PURCHASE PICK PAY OXFORD CENTURION,pick pay oxford centurion,-86.07,8597.75,Groceries,True,test_split
+STMT027,35,2026-09-23,POS PURCHASE ENGEN,engen,-1269.86,7327.89,Transport,True,test_split
+STMT027,36,2026-09-23,PICK PAY DAWSONVILLE 8305*7826,pick pay dawsonville,-391.16,6936.73,Groceries,True,test_split
+STMT027,37,2026-09-24,CARD PURCHASE SASOL 24 SEP,sasol,-1055.53,5881.2,Transport,True,test_split
+STMT027,38,2026-09-24,CARD PURCHASE PRIZEPICKS 5432*4496 24 SEP,prizepicks,-130.99,5750.21,Entertainment,True,test_split
+STMT027,39,2026-09-24,POS PURCHASE COURTESY PAY FEE 3635*7318,courtesy pay fee,-284.13,5466.08,Other Services,True,test_split
+STMT027,40,2026-09-25,SALARY MOTSWEDI HOLDINGS,salary motswedi holdings,34200.0,39666.08,Income,False,generated
+STMT027,41,2026-09-25,CARD PURCHASE PICK PAY SUP 2191*9078,pick pay sup,-546.35,39119.73,Groceries,True,test_split
+STMT027,42,2026-09-25,POS PURCHASE AMPATH LAB CONTRIBUTION RANDBURG,ampath lab contribution randburg,-300.8,38818.93,Health,True,test_split
+STMT027,43,2026-09-25,POS PURCHASE BURGER KING CENTURION 25 SEP,burger king centurion,-122.32,38696.61,Entertainment,True,test_split
+STMT027,44,2026-09-25,POS PURCHASE KRISPY KREME 2154*6462 25 SEP,krispy kreme,-50.52,38646.09,Entertainment,True,test_split
+STMT027,45,2026-09-25,POS PURCHASE ATM FEE POLOKWANE 25 SEP,atm fee polokwane,-47.42,38598.67,Other Services,True,test_split
+STMT027,46,2026-09-26,DEBONAIRS PIZZA 26 SEP,debonairs pizza,-42.33,38556.34,Entertainment,True,test_split
+STMT027,47,2026-09-26,TRANSFER TO SAVINGS,transfer savings,-2200.0,36356.34,Transfer,False,generated
+STMT027,48,2026-09-27,ASTRON ENERGY 5259*3453,astron energy,-358.77,35997.57,Transport,True,test_split
+STMT027,49,2026-09-27,POS PURCHASE CASEYS LAKE OZARK,caseys lake ozark,-1167.49,34830.08,Transport,True,test_split
+STMT027,50,2026-09-28,TRADER JOE RANDBURG 5229*9498,trader joe randburg,-365.75,34464.33,Groceries,True,test_split
+STMT027,51,2026-09-29,CARD PURCHASE KRISPY KREME 29 SEP,krispy kreme,-135.81,34328.52,Entertainment,True,test_split
+STMT027,52,2026-09-30,POS PURCHASE WOOLWORTHS FOOD COM 30 SEP,woolworths food com,-1445.37,32883.15,Groceries,True,test_split
+STMT027,53,2026-09-30,MONTHLY ACCOUNT FEE,monthly account fee,-69.0,32814.15,Other Services,True,generated

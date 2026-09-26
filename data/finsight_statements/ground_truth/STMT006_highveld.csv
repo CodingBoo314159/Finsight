@@ -1,0 +1,45 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT006,1,2026-04-02,DEBIT ORDER SCHOOL FEES DEPT EDUC MENLYN 7513*1696,school fees dept educ menlyn,-1003.22,14833.75,Education,True,test_split
+STMT006,2,2026-04-03,POS PURCHASE SASOL LENEXA KSUS REF POLOKWANE,sasol lenexa ksus ref polokwane,-207.31,14626.44,Transport,True,test_split
+STMT006,3,2026-04-03,POS PURCHASE PUBLIX SNELLVILLE PRETORIA 03 APR,publix snellville pretoria,-170.48,14455.96,Groceries,True,test_split
+STMT006,4,2026-04-04,CHECKERS PROSPER CAPE TOWN,checkers prosper cape town,-673.38,13782.58,Groceries,True,test_split
+STMT006,5,2026-04-05,EFT PAYMENT VIRGIN ACTIVE SCRIPT ROSEBANK,virgin active script rosebank,-764.51,13018.07,Health,True,test_split
+STMT006,6,2026-04-06,POS PURCHASE TOTALENERGIES HUNTINGDO JOHANNESBURG 06 APR,totalenergies huntingdo johannesburg,-1278.57,11739.5,Transport,True,test_split
+STMT006,7,2026-04-06,MAGTAPE DEBIT DIRECT EKURHULENI ELECTRICITY JACQUAYLA HARRIS,direct ekurhuleni electricity jacquayla harris,-485.28,11254.22,Utilities,True,test_split
+STMT006,8,2026-04-08,CARD PURCHASE BP 5069*1049,bp,-317.37,10936.85,Transport,True,test_split
+STMT006,9,2026-04-08,POS PURCHASE TWITCH INTERACTIVE CAUS,twitch interactive caus,-53.59,10883.26,Entertainment,True,test_split
+STMT006,10,2026-04-08,KRISPY KREME,krispy kreme,-40.6,10842.66,Entertainment,True,test_split
+STMT006,11,2026-04-08,POS PURCHASE FOREIGN EXCHANGE RATE ADJUSTMENT FEE ZETTLE,foreign exchange rate adjustment fee zettle,-54.15,10788.51,Other Services,True,test_split
+STMT006,12,2026-04-08,POS PURCHASE CHECKERS PRETORIA 4079*3382,checkers pretoria,-462.25,10326.26,Groceries,True,test_split
+STMT006,13,2026-04-09,POS PURCHASE GULF GROSVENORDA NORTH GROSVEN,gulf grosvenorda north grosven,-1150.13,9176.13,Transport,True,test_split
+STMT006,14,2026-04-09,CARD PURCHASE VIRGIN ACTIVE CONSULTATION 5621*3574,virgin active consultation,-83.86,9092.27,Health,True,test_split
+STMT006,15,2026-04-10,POS PURCHASE MONTESSORI PRE SCHOOL,montessori pre school,-979.08,8113.19,Education,True,test_split
+STMT006,16,2026-04-13,POS PURCHASE WOOLWORTHS FOOD,woolworths food,-263.55,7849.64,Groceries,True,test_split
+STMT006,17,2026-04-13,POS PURCHASE CHECKERS OUTLET,checkers outlet,-721.26,7128.38,Groceries,True,test_split
+STMT006,18,2026-04-14,POS PURCHASE MONTESSORI PRE SCHOOL REGISTRATION 5109*5107,montessori pre school registration,-759.03,6369.35,Education,True,test_split
+STMT006,19,2026-04-14,POS PURCHASE KWIK 1560*3915,kwik,-113.49,6255.86,Groceries,True,test_split
+STMT006,20,2026-04-16,NETWORK ATM FEE HUBBELL AVE MOINES JOHANNESBURG 3021*8279,network atm fee hubbell ave moines johannesburg,-96.96,6158.9,Other Services,True,test_split
+STMT006,21,2026-04-16,POS PURCHASE ASTRON ENERGY GAS HATFIELD 8768*2930,astron energy gas hatfield,-352.11,5806.79,Transport,True,test_split
+STMT006,22,2026-04-17,CARD PURCHASE CELL PREPAID 17 APR,cell prepaid,-395.46,5411.33,Utilities,True,test_split
+STMT006,23,2026-04-18,CARD PURCHASE MCDONALDS MESA CENTURION 4506*8297,mcdonalds mesa centurion,-324.69,5086.64,Entertainment,True,test_split
+STMT006,24,2026-04-18,CARD PURCHASE SEATTLE COFFEE 18 APR,seattle coffee,-37.2,5049.44,Entertainment,True,test_split
+STMT006,25,2026-04-19,POS PURCHASE NANDOS MIDRAND 8113*6567 19 APR,nandos midrand,-291.2,4758.24,Entertainment,True,test_split
+STMT006,26,2026-04-20,CARD PURCHASE WOOLWORTHS RANDBURG 9835*1929,woolworths randburg,-767.43,3990.81,Groceries,True,test_split
+STMT006,27,2026-04-20,TOTALENERGIES 1935*9314,totalenergies,-383.23,3607.58,Transport,True,test_split
+STMT006,28,2026-04-21,POS PURCHASE FAMILY 1457*2037,family,-584.05,3023.53,Groceries,True,test_split
+STMT006,29,2026-04-22,CARD PURCHASE SCOOTER COFFEE 22 APR,scooter coffee,-210.91,2812.62,Entertainment,True,test_split
+STMT006,30,2026-04-23,FSI EKURHULENI ELECTRICITY LOCAL 3543*1538,fsi ekurhuleni electricity local,-275.59,2537.03,Utilities,True,test_split
+STMT006,31,2026-04-23,BP CSI CSI BONNEY LAKE SANDTON 5735*8440,bp csi csi bonney lake sandton,-142.83,2394.2,Transport,True,test_split
+STMT006,32,2026-04-25,SALARY BLUE CRANE SYSTEMS,salary blue crane systems,20300.0,22694.2,Income,False,generated
+STMT006,33,2026-04-25,ST MARKET FLINT 5777*5442,st market flint,-97.85,22596.35,Groceries,True,test_split
+STMT006,34,2026-04-26,POS PURCHASE TOTALENERGIES TUSCALOOSA POLOKWANE 7047*2445,totalenergies tuscaloosa polokwane,-1211.67,21384.68,Transport,True,test_split
+STMT006,35,2026-04-26,POS PURCHASE CHICKEN LICKEN CREDIT,chicken licken credit,-85.53,21299.15,Entertainment,True,test_split
+STMT006,36,2026-04-27,SPUR PORT RICHEY 27 APR,spur port richey,-314.78,20984.37,Entertainment,True,test_split
+STMT006,37,2026-04-27,POS PURCHASE COURTESY PAY FEE 2203*4879 27 APR,courtesy pay fee,-284.13,20700.24,Other Services,True,test_split
+STMT006,38,2026-04-28,CARD PURCHASE MCDONALDS HEWITT 2149*4758 28 APR,mcdonalds hewitt,-168.54,20531.7,Entertainment,True,test_split
+STMT006,39,2026-04-29,POS PURCHASE PIZZA HUT JOHANNESBURG 4902*7210 29 APR,pizza hut johannesburg,-294.57,20237.13,Entertainment,True,test_split
+STMT006,40,2026-04-29,CARD PURCHASE RALPHS SANTA 8152*6262 29 APR,ralphs santa,-90.63,20146.5,Groceries,True,test_split
+STMT006,41,2026-04-29,CARD PURCHASE WITHDRWL PHILLIPS FOO JOHANNESBURG FEE,withdrwl phillips foo johannesburg fee,-176.03,19970.47,Transport,True,test_split
+STMT006,42,2026-04-30,MONTHLY ACCOUNT FEE,monthly account fee,-75.0,19895.47,Other Services,True,generated
+STMT006,43,2026-04-30,CARD PURCHASE VSA PUR ASTRON ENERGY INDIANA 5788*1851 30 APR,vsa pur astron energy indiana,-519.5,19375.97,Transport,True,test_split
+STMT006,44,2026-04-30,POS PURCHASE ENGEN SANDTON 9420*7123,engen sandton,-851.0,18524.97,Transport,True,test_split

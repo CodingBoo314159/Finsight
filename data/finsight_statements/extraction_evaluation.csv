@@ -1,0 +1,31 @@
+statement_id,bank,layout,rows_expected,rows_extracted,date_acc,amount_acc,balance_acc,description_acc,clean_text_acc,balance_check,opening_ok
+STMT001,Protea Bank,ruled,49,49,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT002,Karoo Savings Bank,open,35,35,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT003,Highveld Mutual,zebra,55,55,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT004,Protea Bank,ruled,46,46,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT005,Karoo Savings Bank,open,64,64,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT006,Highveld Mutual,zebra,44,44,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT007,Protea Bank,ruled,46,46,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT008,Karoo Savings Bank,open,45,45,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT009,Highveld Mutual,zebra,45,45,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT010,Protea Bank,ruled,44,44,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT011,Karoo Savings Bank,open,38,38,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT012,Highveld Mutual,zebra,43,43,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT013,Protea Bank,ruled,44,44,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT014,Karoo Savings Bank,open,42,42,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT015,Highveld Mutual,zebra,46,46,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT016,Protea Bank,ruled,49,49,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT017,Karoo Savings Bank,open,46,46,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT018,Highveld Mutual,zebra,45,45,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT019,Protea Bank,ruled,50,50,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT020,Karoo Savings Bank,open,46,46,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT021,Highveld Mutual,zebra,33,33,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT022,Protea Bank,ruled,45,45,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT023,Karoo Savings Bank,open,36,36,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT024,Highveld Mutual,zebra,44,44,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT025,Protea Bank,ruled,38,38,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT026,Karoo Savings Bank,open,39,39,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT027,Highveld Mutual,zebra,53,53,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT028,Protea Bank,ruled,31,31,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT029,Karoo Savings Bank,open,55,55,1.0,1.0,1.0,1.0,1.0,1.0,True
+STMT030,Highveld Mutual,zebra,45,45,1.0,1.0,1.0,1.0,1.0,1.0,True

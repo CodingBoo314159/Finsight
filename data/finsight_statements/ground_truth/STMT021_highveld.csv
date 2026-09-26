@@ -1,0 +1,34 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT021,1,2026-09-01,CARD PURCHASE INTERNATIONAL SERVICE ASSESSMENTDATE INTL TRN FEE SANDTON 4823*7542,international service assessmentdate intl trn fee sandton,-16.74,15698.3,Other Services,True,test_split
+STMT021,2,2026-09-01,CARD PURCHASE FOOD LION RALEIGH,food lion raleigh,-673.01,15025.29,Groceries,True,test_split
+STMT021,3,2026-09-01,CARD PURCHASE OCULUS SOWETO 4790*8708,oculus soweto,-264.88,14760.41,Other Services,True,test_split
+STMT021,4,2026-09-01,DEBIT ORDER DIRECT ALABAMA POWER GDS 01 SEP,direct alabama power gds,-1123.76,13636.65,Utilities,True,test_split
+STMT021,5,2026-09-02,DEBIT ORDER ESKOM DATA BUNDLE 8319*1777,eskom data bundle,-896.67,12739.98,Utilities,True,test_split
+STMT021,6,2026-09-02,POS PURCHASE STEERS WACO DELIA SOTO JOHANNESBURG 1344*2002 02 SEP,steers waco delia soto johannesburg,-77.52,12662.46,Entertainment,True,test_split
+STMT021,7,2026-09-02,MAGTAPE DEBIT GPC GPC EBILL 9697*6511 02 SEP,gpc gpc ebill,-2011.43,10651.03,Utilities,True,test_split
+STMT021,8,2026-09-03,MAGTAPE DEBIT CITY TSHWANE RATES PAYMEN CAPE TOWN 03 SEP,city tshwane rates paymen cape town,-102.25,10548.78,Utilities,True,test_split
+STMT021,9,2026-09-04,WOOLWORTHS FOOD 2935*2636,woolworths food,-770.95,9777.83,Groceries,True,test_split
+STMT021,10,2026-09-05,CARD PURCHASE SHELL JEFF HATFIELD 5801*3441,shell jeff hatfield,-514.27,9263.56,Transport,True,test_split
+STMT021,11,2026-09-06,POS PURCHASE ENGEN GAS 8638*5172,engen gas,-295.85,8967.71,Transport,True,test_split
+STMT021,12,2026-09-07,EFT PAYMENT VIRGIN ACTIVE SCRIPT,virgin active script,-455.39,8512.32,Health,True,test_split
+STMT021,13,2026-09-11,POS PURCHASE WW INT DIGITAL,ww int digital,-190.15,8322.17,Other Services,True,test_split
+STMT021,14,2026-09-13,CARD PURCHASE ATM FEE,atm fee,-47.42,8274.75,Other Services,True,test_split
+STMT021,15,2026-09-13,CARD PURCHASE DUCK DONUTS SUFFOL SUFFOLK 4940*6212,duck donuts suffol suffolk,-330.79,7943.96,Entertainment,True,test_split
+STMT021,16,2026-09-13,CARD PURCHASE DAYBREAK MARKET BANNING RANDBURG,daybreak market banning randburg,-136.81,7807.15,Groceries,True,test_split
+STMT021,17,2026-09-14,POS PURCHASE KFC CENTURION,kfc centurion,-78.21,7728.94,Entertainment,True,test_split
+STMT021,18,2026-09-14,POS PURCHASE SHELL 6141*9952,shell,-220.39,7508.55,Transport,True,test_split
+STMT021,19,2026-09-14,FSI ESKOM LOCAL 14 SEP,fsi eskom local,-275.59,7232.96,Utilities,True,test_split
+STMT021,20,2026-09-17,ASTRON ENERGY 7128*2119,astron energy,-317.37,6915.59,Transport,True,test_split
+STMT021,21,2026-09-17,CARD PURCHASE FOOD LION DURHAM 17 SEP,food lion durham,-107.16,6808.43,Groceries,True,test_split
+STMT021,22,2026-09-20,WOOLWORTHS FOOD,woolworths food,-375.64,6432.79,Groceries,True,test_split
+STMT021,23,2026-09-20,DEBONAIRS PIZZA PORT HUENEME MENLYN 4525*8873 20 SEP,debonairs pizza port hueneme menlyn,-154.38,6278.41,Entertainment,True,test_split
+STMT021,24,2026-09-20,STORE BAYONNE,store bayonne,-212.56,6065.85,Groceries,True,test_split
+STMT021,25,2026-09-21,POS PURCHASE NETFLIX DATE 9932*1314 21 SEP,netflix date,-93.88,5971.97,Entertainment,True,test_split
+STMT021,26,2026-09-22,POS PURCHASE PUBLIX ANDERSON HATFIELD,publix anderson hatfield,-375.64,5596.33,Groceries,True,test_split
+STMT021,27,2026-09-23,CARD PURCHASE PUBLIX SNELLVILLE 23 SEP,publix snellville,-239.09,5357.24,Groceries,True,test_split
+STMT021,28,2026-09-24,CARD PURCHASE DISCOVERY HEALTH 4625*9244,discovery health,-378.74,4978.5,Health,True,test_split
+STMT021,29,2026-09-25,CARD PURCHASE WOOLWORTHS HACKENSACK MIDRAND 6239*2224,woolworths hackensack midrand,-1856.71,3121.79,Groceries,True,test_split
+STMT021,30,2026-09-25,SALARY BLUE CRANE SYSTEMS,salary blue crane systems,36900.0,40021.79,Income,False,generated
+STMT021,31,2026-09-29,POS PURCHASE INGLES GAS EXP SHELBY DURBAN 1594*7207 29 SEP,ingles gas exp shelby durban,-832.24,39189.55,Transport,True,test_split
+STMT021,32,2026-09-30,MONTHLY ACCOUNT FEE,monthly account fee,-69.0,39120.55,Other Services,True,generated
+STMT021,33,2026-09-30,POS PURCHASE ENGEN 2115*1008,engen,-427.25,38693.3,Transport,True,test_split

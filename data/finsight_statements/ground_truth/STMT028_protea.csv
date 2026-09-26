@@ -1,0 +1,32 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT028,1,2026-08-01,INTERNET PMT TO AMPATH LAB SOWETO 9888*1596,ampath lab soweto,-66.61,12842.31,Health,True,test_split
+STMT028,2,2026-08-01,POS PURCHASE VIDA CAFFE,vida caffe,-117.93,12724.38,Entertainment,True,test_split
+STMT028,3,2026-08-01,POS PURCHASE BOXER MEMBERSHI PRETORIA 5820*5975 01 AUG,boxer membershi pretoria,-199.57,12524.81,Other Services,True,test_split
+STMT028,4,2026-08-03,CHECKERS SUPER CENTER AMARILLO,checkers super center amarillo,-273.31,12251.5,Groceries,True,test_split
+STMT028,5,2026-08-03,POS PURCHASE KFC DESTIN 2052*6153 03 AUG,kfc destin,-379.18,11872.32,Entertainment,True,test_split
+STMT028,6,2026-08-04,HANNAFORD BR BANGOR SOWETO 7537*2051,hannaford br bangor soweto,-241.45,11630.87,Groceries,True,test_split
+STMT028,7,2026-08-04,DEBIT ORDER GRID,grid,-219.84,11411.03,Utilities,True,test_split
+STMT028,8,2026-08-05,POS PURCHASE WITHDRWL PHILLIPS FOO CENTURION FEE 05 AUG,withdrwl phillips foo centurion fee,-176.03,11235.0,Transport,True,test_split
+STMT028,9,2026-08-06,MICROSOFT 4857*1585,microsoft,-224.32,11010.68,Other Services,True,test_split
+STMT028,10,2026-08-07,POS PURCHASE WOOLWORTHS FOOD COM 1436*5103 07 AUG,woolworths food com,-502.53,10508.15,Groceries,True,test_split
+STMT028,11,2026-08-08,TOTALENERGIES MENLYN,totalenergies menlyn,-700.03,9808.12,Transport,True,test_split
+STMT028,12,2026-08-09,POS PURCHASE JEWEL OSCO NEW LENOX JOHANNESBURG,jewel osco new lenox johannesburg,-452.9,9355.22,Groceries,True,test_split
+STMT028,13,2026-08-09,POS PURCHASE MISSION SASOL MISSION SANTA ROSA PRETORIA 9426*2207,mission sasol mission santa rosa pretoria,-773.71,8581.51,Transport,True,test_split
+STMT028,14,2026-08-15,CARD PURCHASE ESKOM ACCOUNT 5798*8767 15 AUG,eskom account,-1309.22,7272.29,Utilities,True,test_split
+STMT028,15,2026-08-15,FOOD LOVERS MARKET HATFIELD HATFIELD 7657*2980,food lovers market hatfield hatfield,-300.06,6972.23,Groceries,True,test_split
+STMT028,16,2026-08-17,MONTHLY MAINTENANCE FEE POLOKWANE,monthly maintenance fee polokwane,-117.06,6855.17,Other Services,True,test_split
+STMT028,17,2026-08-18,POS PURCHASE SHELL 4914*5518,shell,-289.86,6565.31,Transport,True,test_split
+STMT028,18,2026-08-19,POS PURCHASE RUTTER WINTERSTOWN RD RED LION 5588*1548,rutter winterstown rd red lion,-152.15,6413.16,Groceries,True,test_split
+STMT028,19,2026-08-20,POS PURCHASE ACME PHILADELPHIA PADATE,acme philadelphia padate,-753.07,5660.09,Groceries,True,test_split
+STMT028,20,2026-08-22,POS PURCHASE BURGER KING DEER PARK ROSEBANK 8998*1618,burger king deer park rosebank,-39.96,5620.13,Entertainment,True,test_split
+STMT028,21,2026-08-22,POS PURCHASE SP INNOSUPPS HTTPSWWW INNONV 1458*6545,sp innosupps httpswww innonv,-481.76,5138.37,Other Services,True,test_split
+STMT028,22,2026-08-22,PIQUA SPAR EXPRESS PRETORIA,piqua spar express pretoria,-244.33,4894.04,Groceries,True,test_split
+STMT028,23,2026-08-23,POS PURCHASE KWIK SANDTON 5008*8408,kwik sandton,-298.85,4595.19,Groceries,True,test_split
+STMT028,24,2026-08-23,POS PURCHASE WOOLWORTHS FOOD,woolworths food,-142.6,4452.59,Groceries,True,test_split
+STMT028,25,2026-08-25,SALARY IMPALA RETAIL GROUP,salary impala retail group,39500.0,43952.59,Income,False,generated
+STMT028,26,2026-08-26,TRANSFER TO SAVINGS,transfer savings,-800.0,43152.59,Transfer,False,generated
+STMT028,27,2026-08-28,DATE PLAYSTATION NETWOR 28 AUG,date playstation networ,-679.19,42473.4,Other Services,True,test_split
+STMT028,28,2026-08-28,CARD PURCHASE PIN PURCH BP ENTE VALLEY 9318*4612,pin purch bp ente valley,-653.57,41819.83,Transport,True,test_split
+STMT028,29,2026-08-29,POS PURCHASE CHECKERS COM DURBAN 29 AUG,checkers com durban,-634.04,41185.79,Groceries,True,test_split
+STMT028,30,2026-08-30,SHELL 8145*3035 30 AUG,shell,-187.79,40998.0,Transport,True,test_split
+STMT028,31,2026-08-31,MONTHLY ACCOUNT FEE,monthly account fee,-99.0,40899.0,Other Services,True,generated

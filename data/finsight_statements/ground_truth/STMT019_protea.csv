@@ -1,0 +1,51 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT019,1,2026-08-01,POS PURCHASE WOOLWORTHS COM PARKWAYDATE 1473*4446,woolworths com parkwaydate,-148.68,30904.25,Groceries,True,test_split
+STMT019,2,2026-08-01,SCHOOL FEES DEPT EDUC TEXTBOOKS 6305*8417,school fees dept educ textbooks,-742.74,30161.51,Education,True,test_split
+STMT019,3,2026-08-01,INTERNET PMT TO ACI POWER LIG 1366*9068 01 AUG,aci power lig,-1909.89,28251.62,Utilities,True,test_split
+STMT019,4,2026-08-02,DEBIT ORDER ESKOM 7859*6308,eskom,-3428.8,24822.82,Utilities,True,test_split
+STMT019,5,2026-08-02,MAGTAPE DEBIT EKURHULENI ELECTRICITY DUKE PYMNT,ekurhuleni electricity duke pymnt,-1688.53,23134.29,Utilities,True,test_split
+STMT019,6,2026-08-03,CARD PURCHASE CHECKERS 5419*5839,checkers,-1224.48,21909.81,Groceries,True,test_split
+STMT019,7,2026-08-03,POS PURCHASE RAISING CANES CAPE TOWN 03 AUG,raising canes cape town,-172.86,21736.95,Entertainment,True,test_split
+STMT019,8,2026-08-03,MAGTAPE DEBIT AMPATH LAB 7949*9458,ampath lab,-1797.51,19939.44,Health,True,test_split
+STMT019,9,2026-08-03,MURPHY ATWALMART BLOEMFONTEIN DATE 1838*6529,murphy atwalmart bloemfontein date,-1055.16,18884.28,Transport,True,test_split
+STMT019,10,2026-08-04,ASTRON ENERGY 9053*1921 04 AUG,astron energy,-270.95,18613.33,Transport,True,test_split
+STMT019,11,2026-08-05,CARD PURCHASE AMZN MKTP TA AMZN COM PRETORIA,amzn mktp ta amzn com pretoria,-692.17,17921.16,Entertainment,True,test_split
+STMT019,12,2026-08-06,SPOTIFY 06 AUG,spotify,-160.98,17760.18,Entertainment,True,test_split
+STMT019,13,2026-08-06,POS PURCHASE CHECKERS HYPER SUP DEER PARK CASH 7416*1174,checkers hyper sup deer park cash,-3389.84,14370.34,Groceries,True,test_split
+STMT019,14,2026-08-07,EFT PAYMENT UTILITIES FEE 6286*7299 07 AUG,utilities fee,-135.39,14234.95,Utilities,True,test_split
+STMT019,15,2026-08-08,CARD PURCHASE DEBONAIRS PIZZA COLORADO SPR KYLE KJAER 3345*2021,debonairs pizza colorado spr kyle kjaer,-337.97,13896.98,Entertainment,True,test_split
+STMT019,16,2026-08-09,POS PURCHASE MONTESSORI PRE SCHOOL EXAM FEES CAPE TOWN,montessori pre school exam fees cape town,-3839.13,10057.85,Education,True,test_split
+STMT019,17,2026-08-10,POS PURCHASE NANDOS MENLYN 5492*2375 10 AUG,nandos menlyn,-25.9,10031.95,Entertainment,True,test_split
+STMT019,18,2026-08-10,SHOPRITE BOSSIER CITY PRETORIA 7427*8100,shoprite bossier city pretoria,-224.97,9806.98,Groceries,True,test_split
+STMT019,19,2026-08-10,CARD PURCHASE ATM FEE,atm fee,-47.42,9759.56,Other Services,True,test_split
+STMT019,20,2026-08-11,POS PURCHASE GLENDALE,glendale,-640.01,9119.55,Groceries,True,test_split
+STMT019,21,2026-08-11,POS PURCHASE MORGAN GASOLIN MORGAN GASOLINE WHITTIER,morgan gasolin morgan gasoline whittier,-99.55,9020.0,Groceries,True,test_split
+STMT019,22,2026-08-13,SHOPRITE MIDDLEBR KNOXVILLE PIN CENTURION 7112*5057 13 AUG,shoprite middlebr knoxville pin centurion,-210.72,8809.28,Groceries,True,test_split
+STMT019,23,2026-08-13,POS PURCHASE PIQUA SPAR EXPRESS SOWETO 8957*9657,piqua spar express soweto,-155.37,8653.91,Groceries,True,test_split
+STMT019,24,2026-08-13,POS PURCHASE TRIANGLE ASTRON ENERGY TIOGA TXUS,triangle astron energy tioga txus,-286.73,8367.18,Transport,True,test_split
+STMT019,25,2026-08-14,CARD PURCHASE RISE KINGDOMS CAPE TOWN 14 AUG,rise kingdoms cape town,-21.41,8345.77,Entertainment,True,test_split
+STMT019,26,2026-08-14,SPAR SUP BEREA PIN 1368*5668,spar sup berea pin,-1141.39,7204.38,Groceries,True,test_split
+STMT019,27,2026-08-14,CARD PURCHASE FOOD LOVERS MARKET MIDRAND 1889*7212,food lovers market midrand,-314.96,6889.42,Groceries,True,test_split
+STMT019,28,2026-08-15,CARD PURCHASE WOOLWORTHS FOOD 15 AUG,woolworths food,-584.45,6304.97,Groceries,True,test_split
+STMT019,29,2026-08-15,POS PURCHASE PIZZA HUT 15 AUG,pizza hut,-545.41,5759.56,Entertainment,True,test_split
+STMT019,30,2026-08-16,ATM FEE,atm fee,-47.42,5712.14,Other Services,True,test_split
+STMT019,31,2026-08-18,MUGG BEAN 18 AUG,mugg bean,-50.35,5661.79,Entertainment,True,test_split
+STMT019,32,2026-08-18,RD STREET MINI MART BETHLEHEM PADATE PRETORIA,rd street mini mart bethlehem padate pretoria,-260.73,5401.06,Groceries,True,test_split
+STMT019,33,2026-08-18,POS PURCHASE CAVA PIKE PLZ VIENNA BLOEMFONTEIN 8261*8812,cava pike plz vienna bloemfontein,-207.8,5193.26,Entertainment,True,test_split
+STMT019,34,2026-08-18,AFFORDABLE COMPUTERS DALTON 18 AUG,affordable computers dalton,-295.67,4897.59,Other Services,True,test_split
+STMT019,35,2026-08-20,POS PURCHASE AMAZON PRIME VI GN,amazon prime vi gn,-96.36,4801.23,Entertainment,True,test_split
+STMT019,36,2026-08-21,POS PURCHASE DATE EAST GARDEN VILLE MENLYN 5736*8739,date east garden ville menlyn,-478.78,4322.45,Groceries,True,test_split
+STMT019,37,2026-08-22,POS PURCHASE ZAXBY OCOEE DURBAN 7700*2822,zaxby ocoee durban,-490.83,3831.62,Entertainment,True,test_split
+STMT019,38,2026-08-22,WOOLWORTHS FOOD COM 22 AUG,woolworths food com,-339.04,3492.58,Groceries,True,test_split
+STMT019,39,2026-08-24,POS PURCHASE BOXER SUP BEREA PIN DURBAN,boxer sup berea pin durban,-472.86,3019.72,Groceries,True,test_split
+STMT019,40,2026-08-25,SALARY BAOBAB CONSULTING,salary baobab consulting,38900.0,41919.72,Income,False,generated
+STMT019,41,2026-08-25,POS PURCHASE PUBLIX SNELLVILLE 2273*5592,publix snellville,-219.1,41700.62,Groceries,True,test_split
+STMT019,42,2026-08-26,TRANSFER TO SAVINGS,transfer savings,-1000.0,40700.62,Transfer,False,generated
+STMT019,43,2026-08-26,CARD PURCHASE CELL RATES TAXES,cell rates taxes,-689.63,40010.99,Utilities,True,test_split
+STMT019,44,2026-08-27,POS PURCHASE SPAFF ENSORIN SANDTON 5518*9604 27 AUG,spaff ensorin sandton,-218.12,39792.87,Other Services,True,test_split
+STMT019,45,2026-08-28,CARD PURCHASE SHELL BRILLION CENTURION 28 AUG,shell brillion centurion,-740.64,39052.23,Transport,True,test_split
+STMT019,46,2026-08-28,POS PURCHASE PUBLIX SUPER PUBLIX SUPER COCONUT 5405*9268,publix super publix super coconut,-1693.7,37358.53,Groceries,True,test_split
+STMT019,47,2026-08-30,POS PURCHASE STEERS SAVANNAH RANDBURG 7703*9784 30 AUG,steers savannah randburg,-291.43,37067.1,Entertainment,True,test_split
+STMT019,48,2026-08-31,MONTHLY ACCOUNT FEE,monthly account fee,-65.0,37002.1,Other Services,True,generated
+STMT019,49,2026-08-31,POS PURCHASE MUGG BEAN,mugg bean,-220.52,36781.58,Entertainment,True,test_split
+STMT019,50,2026-08-31,POS PURCHASE UTILITIES FEE MIDRAND,utilities fee midrand,-136.92,36644.66,Utilities,True,test_split

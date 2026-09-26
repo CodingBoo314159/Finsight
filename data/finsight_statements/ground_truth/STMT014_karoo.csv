@@ -1,0 +1,43 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT014,1,2026-09-01,MONTHLY MAINTENANCE FEE RANDBURG 7128*3296,monthly maintenance fee randburg,-117.06,23596.87,Other Services,True,test_split
+STMT014,2,2026-09-01,SEATTLE COFFEE,seattle coffee,-54.33,23542.54,Entertainment,True,test_split
+STMT014,3,2026-09-02,POS PURCHASE STORES HATFIELD 7393*6817 02 SEP,stores hatfield,-150.66,23391.88,Other Services,True,test_split
+STMT014,4,2026-09-02,INTERNET PMT TO VIRGIN ACTIVE CONTRIBUTION MIDRAND,virgin active contribution midrand,-366.3,23025.58,Health,True,test_split
+STMT014,5,2026-09-02,MICROSOFT,microsoft,-234.62,22790.96,Other Services,True,test_split
+STMT014,6,2026-09-02,CARD PURCHASE WOOLWORTHS 02 SEP,woolworths,-636.97,22153.99,Groceries,True,test_split
+STMT014,7,2026-09-05,POS PURCHASE WOODMEN CAR WASH COLORADO SPRICO RANDBURG 05 SEP,woodmen car wash colorado sprico randburg,-110.88,22043.11,Other Services,True,test_split
+STMT014,8,2026-09-05,INTERNET PMT TO CELL,cell,-1486.51,20556.6,Utilities,True,test_split
+STMT014,9,2026-09-05,CARD PURCHASE CHECKERS MIDDLEBR KNOXVILLE PIN,checkers middlebr knoxville pin,-308.41,20248.19,Groceries,True,test_split
+STMT014,10,2026-09-05,POS PURCHASE CHICKEN LICKEN RANDBURG 3850*1146,chicken licken randburg,-53.2,20194.99,Entertainment,True,test_split
+STMT014,11,2026-09-06,MICROSOFT,microsoft,-154.62,20040.37,Other Services,True,test_split
+STMT014,12,2026-09-06,CARD PURCHASE SHELL,shell,-467.43,19572.94,Transport,True,test_split
+STMT014,13,2026-09-06,MAGTAPE DEBIT WATER WOR 7150*2736,water wor,-1075.99,18496.95,Utilities,True,test_split
+STMT014,14,2026-09-06,POS PURCHASE CHECKERS HYPER SUP,checkers hyper sup,-1363.69,17133.26,Groceries,True,test_split
+STMT014,15,2026-09-07,POS PURCHASE SPAR OXFORD,spar oxford,-227.97,16905.29,Groceries,True,test_split
+STMT014,16,2026-09-07,POS PURCHASE MUGG BEAN BOLINGBROOK CAPE TOWN 2248*3200,mugg bean bolingbrook cape town,-181.34,16723.95,Entertainment,True,test_split
+STMT014,17,2026-09-08,POS PURCHASE OVERDRAFT FEE ITEM DETAILS PROG UNIVERSAL RETRY CAPE TOWN,overdraft fee item details prog universal retry cape town,-370.75,16353.2,Other Services,True,test_split
+STMT014,18,2026-09-08,RALPHS RALPHS LOS ES,ralphs ralphs los es,-1581.24,14771.96,Groceries,True,test_split
+STMT014,19,2026-09-10,DAYBREAK MARKET BANNING,daybreak market banning,-272.9,14499.06,Groceries,True,test_split
+STMT014,20,2026-09-10,POS PURCHASE CHECKERS SUP BEREA PIN 10 SEP,checkers sup berea pin,-1228.42,13270.64,Groceries,True,test_split
+STMT014,21,2026-09-10,CARD PURCHASE MUGG BEAN STORE RANDBURG 9224*4686 10 SEP,mugg bean store randburg,-161.14,13109.5,Entertainment,True,test_split
+STMT014,22,2026-09-12,CARD PURCHASE SHELL SERVICE STAT 2348*9867,shell service stat,-1062.32,12047.18,Transport,True,test_split
+STMT014,23,2026-09-12,WOOLWORTHS COM 12 SEP,woolworths com,-278.6,11768.58,Groceries,True,test_split
+STMT014,24,2026-09-13,POS PURCHASE ENGEN TUSCALOOSA 8647*8736,engen tuscaloosa,-161.55,11607.03,Transport,True,test_split
+STMT014,25,2026-09-14,POS PURCHASE APPLE MUSIC 8593*2939 14 SEP,apple music,-159.09,11447.94,Entertainment,True,test_split
+STMT014,26,2026-09-14,CARD PURCHASE DDA BOLLA JAMAICA,dda bolla jamaica,-223.08,11224.86,Transport,True,test_split
+STMT014,27,2026-09-15,POS PURCHASE TURKEY HILL MAIN ST BIRDSBORO 15 SEP,turkey hill main st birdsboro,-346.31,10878.55,Groceries,True,test_split
+STMT014,28,2026-09-16,CARD PURCHASE PICK PAY SHEPHERDSVILL SOWETO,pick pay shepherdsvill soweto,-437.04,10441.51,Groceries,True,test_split
+STMT014,29,2026-09-17,CARD PURCHASE PLAYSTATION NETWOR 5180*5082,playstation networ,-126.35,10315.16,Other Services,True,test_split
+STMT014,30,2026-09-19,WEIS MARKETS SBURG 19 SEP,weis markets sburg,-548.19,9766.97,Groceries,True,test_split
+STMT014,31,2026-09-20,CARD PURCHASE TIGER MART KEMP MENLYN 20 SEP,tiger mart kemp menlyn,-274.95,9492.02,Transport,True,test_split
+STMT014,32,2026-09-22,POS PURCHASE SHELL 3714*2658,shell,-155.35,9336.67,Transport,True,test_split
+STMT014,33,2026-09-23,POS PURCHASE BOXER SUP PRETORIA 23 SEP,boxer sup pretoria,-1907.56,7429.11,Groceries,True,test_split
+STMT014,34,2026-09-23,POS PURCHASE WOOLWORTHS FOOD ANDERSON 9670*5939 23 SEP,woolworths food anderson,-2381.14,5047.97,Groceries,True,test_split
+STMT014,35,2026-09-24,DBT CRD GEICO AUTO,dbt crd geico auto,-725.55,4322.42,Other Services,True,test_split
+STMT014,36,2026-09-25,SALARY MOTSWEDI HOLDINGS,salary motswedi holdings,29100.0,33422.42,Income,False,generated
+STMT014,37,2026-09-25,CARD PURCHASE RAND WATER PAYMEN MENLYN 6858*2459,rand water paymen menlyn,-102.25,33320.17,Utilities,True,test_split
+STMT014,38,2026-09-26,TRANSFER TO SAVINGS,transfer savings,-1300.0,32020.17,Transfer,False,generated
+STMT014,39,2026-09-26,PIQUA SPAR EXPRESS 6572*8462,piqua spar express,-635.5,31384.67,Groceries,True,test_split
+STMT014,40,2026-09-27,CARD PURCHASE WITHDRWL PHILLIPS FOO JOHANNESBURG FEE,withdrwl phillips foo johannesburg fee,-176.03,31208.64,Transport,True,test_split
+STMT014,41,2026-09-28,POS PURCHASE SANTANDER 3891*4512 28 SEP,santander,-2326.53,28882.11,Other Services,True,test_split
+STMT014,42,2026-09-30,MONTHLY ACCOUNT FEE,monthly account fee,-65.0,28817.11,Other Services,True,generated

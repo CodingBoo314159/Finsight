@@ -1,0 +1,37 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT023,1,2026-05-01,DEBIT ORDER AMPATH LAB CONSULTATION CAPE TOWN,ampath lab consultation cape town,-362.74,7569.29,Health,True,test_split
+STMT023,2,2026-05-01,POS PURCHASE DEBONAIRS PIZZA,debonairs pizza,-116.58,7452.71,Entertainment,True,test_split
+STMT023,3,2026-05-03,POS PURCHASE MONTHLY MAINTENANCE FEE,monthly maintenance fee,-117.06,7335.65,Other Services,True,test_split
+STMT023,4,2026-05-04,POS PURCHASE PICK PAY MIDDLEBR KNOXVILLE PIN 04 MAY,pick pay middlebr knoxville pin,-250.98,7084.67,Groceries,True,test_split
+STMT023,5,2026-05-05,INTERNET PMT TO GRID BLOEMFONTEIN 1958*4884,grid bloemfontein,-283.31,6801.36,Utilities,True,test_split
+STMT023,6,2026-05-07,POS PURCHASE GIANT LANDOVER 07 MAY,giant landover,-298.69,6502.67,Groceries,True,test_split
+STMT023,7,2026-05-08,CARD PURCHASE MCDONALDS HOPEWELLVA,mcdonalds hopewellva,-123.3,6379.37,Entertainment,True,test_split
+STMT023,8,2026-05-11,POS PURCHASE SPAR EXPRESS HARDEEVILLE PIN,spar express hardeeville pin,-240.88,6138.49,Groceries,True,test_split
+STMT023,9,2026-05-12,CHECKERS 6054*8959,checkers,-446.96,5691.53,Groceries,True,test_split
+STMT023,10,2026-05-12,POS PURCHASE DEBONAIRS PIZZA VILLE ORUS SOWETO,debonairs pizza ville orus soweto,-137.54,5553.99,Entertainment,True,test_split
+STMT023,11,2026-05-14,CARD PURCHASE APPLE MUSIC,apple music,-125.66,5428.33,Entertainment,True,test_split
+STMT023,12,2026-05-14,POS PURCHASE ACKERMANS DG ESPANOLA,ackermans dg espanola,-217.05,5211.28,Other Services,True,test_split
+STMT023,13,2026-05-15,POS PURCHASE WOOLWORTHS FOOD COM,woolworths food com,-453.86,4757.42,Groceries,True,test_split
+STMT023,14,2026-05-17,PAYPAL INST XFER SPOTIFYUSAI 7739*9435 17 MAY,paypal inst xfer spotifyusai,-158.24,4599.18,Entertainment,True,test_split
+STMT023,15,2026-05-17,TOTALENERGIES SERVICE STAT 1506*5942,totalenergies service stat,-629.04,3970.14,Transport,True,test_split
+STMT023,16,2026-05-18,POS PURCHASE ALLSTATE INS INS PREM 18 MAY,allstate ins ins prem,-188.62,3781.52,Other Services,True,test_split
+STMT023,17,2026-05-19,ROAD TRAC RO,road trac ro,-142.19,3639.33,Groceries,True,test_split
+STMT023,18,2026-05-20,POS PURCHASE MUGG BEAN 5272*2345,mugg bean,-97.89,3541.44,Entertainment,True,test_split
+STMT023,19,2026-05-20,POS PURCHASE WOOLWORTHS FOOD JOHANNESBURG 6882*4955,woolworths food johannesburg,-187.06,3354.38,Groceries,True,test_split
+STMT023,20,2026-05-22,POS PURCHASE CHECKERS NITRO MARKETPLACE LANESWV,checkers nitro marketplace laneswv,-230.68,3123.7,Groceries,True,test_split
+STMT023,21,2026-05-24,MONTHLY MAINTENANCE FEE ROSEBANK 8726*2482 24 MAY,monthly maintenance fee rosebank,-117.06,3006.64,Other Services,True,test_split
+STMT023,22,2026-05-25,CARD PURCHASE CHECKERS COM,checkers com,-289.82,2716.82,Groceries,True,test_split
+STMT023,23,2026-05-25,POS PURCHASE WOOLWORTHS COM 25 MAY,woolworths com,-593.11,2123.71,Groceries,True,test_split
+STMT023,24,2026-05-25,CARD PURCHASE CHECKERS MIDDLEBR KNOXVILLE PIN RANDBURG 7573*6327 25 MAY,checkers middlebr knoxville pin randburg,-173.45,1950.26,Groceries,True,test_split
+STMT023,25,2026-05-25,SALARY SUNVELD ENGINEERING,salary sunveld engineering,25700.0,27650.26,Income,False,generated
+STMT023,26,2026-05-26,CARD PURCHASE JETS PIZZA BOWLING GRE CAPE TOWN,jets pizza bowling gre cape town,-568.83,27081.43,Entertainment,True,test_split
+STMT023,27,2026-05-26,ENGEN WEBER LAW SOWETO 6759*9821 26 MAY,engen weber law soweto,-260.24,26821.19,Transport,True,test_split
+STMT023,28,2026-05-26,TRANSFER TO SAVINGS,transfer savings,-1700.0,25121.19,Transfer,False,generated
+STMT023,29,2026-05-28,CARD PURCHASE DBT CRD LOAF JUG PUEBLO SANDTON 28 MAY,dbt crd loaf jug pueblo sandton,-884.08,24237.11,Transport,True,test_split
+STMT023,30,2026-05-29,POS PURCHASE WOOLWORTHS FOOD 9969*4178,woolworths food,-1384.46,22852.65,Groceries,True,test_split
+STMT023,31,2026-05-29,CARD PURCHASE FORT WORTH 2896*9296,fort worth,-704.97,22147.68,Transport,True,test_split
+STMT023,32,2026-05-29,POS PURCHASE KFC HATFIELD 4728*6231,kfc hatfield,-69.75,22077.93,Entertainment,True,test_split
+STMT023,33,2026-05-30,POS PURCHASE WYOMING PETRO WYOMING PETRO CI DETROIT 1577*3621,wyoming petro wyoming petro ci detroit,-34.46,22043.47,Groceries,True,test_split
+STMT023,34,2026-05-31,MONTHLY ACCOUNT FEE,monthly account fee,-99.0,21944.47,Other Services,True,generated
+STMT023,35,2026-05-31,POS PURCHASE ENGEN CH BOLLINGER CARROLLTON 6026*2517 31 MAY,engen ch bollinger carrollton,-298.47,21646.0,Transport,True,test_split
+STMT023,36,2026-05-31,POS PURCHASE CASEYS SHOQCHISAGO MNUS JOHANNESBURG 4481*3485,caseys shoqchisago mnus johannesburg,-395.54,21250.46,Transport,True,test_split

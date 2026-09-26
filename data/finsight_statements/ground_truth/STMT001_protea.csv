@@ -1,0 +1,50 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT001,1,2026-04-02,POS PURCHASE AMPATH LAB 9981*7995,ampath lab,-509.93,30268.83,Health,True,test_split
+STMT001,2,2026-04-02,DEBIT ORDER MONTESSORI PRE SCHOOL TUITION MENLYN 1161*7098 02 APR,montessori pre school tuition menlyn,-7257.74,23011.09,Education,True,test_split
+STMT001,3,2026-04-03,CARD PURCHASE FOOD LOVERS MARKET CIRCLEVILLE,food lovers market circleville,-861.23,22149.86,Groceries,True,test_split
+STMT001,4,2026-04-03,POS PURCHASE ARBYS HOLLYWOOD CAPE TOWN 7816*4741 03 APR,arbys hollywood cape town,-151.59,21998.27,Entertainment,True,test_split
+STMT001,5,2026-04-04,CARD PURCHASE DEBONAIRS PIZZA JOHANNESBURG WIUS 7493*3753,debonairs pizza johannesburg wius,-186.4,21811.87,Entertainment,True,test_split
+STMT001,6,2026-04-04,POS PURCHASE CELL RATES TAXES CAPE TOWN 1199*7947,cell rates taxes cape town,-402.72,21409.15,Utilities,True,test_split
+STMT001,7,2026-04-04,POS PURCHASE SHELL HATFIELD,shell hatfield,-648.47,20760.68,Transport,True,test_split
+STMT001,8,2026-04-05,ACI POWER LIG,aci power lig,-2048.72,18711.96,Utilities,True,test_split
+STMT001,9,2026-04-05,SEATTLE COFFEE ROSEBANK 5203*8043 05 APR,seattle coffee rosebank,-177.69,18534.27,Entertainment,True,test_split
+STMT001,10,2026-04-06,POS PURCHASE DAIRY QUEEN BONHAM 3699*9325,dairy queen bonham,-111.05,18423.22,Entertainment,True,test_split
+STMT001,11,2026-04-06,CR,cr,-215.24,18207.98,Groceries,True,test_split
+STMT001,12,2026-04-06,CARD PURCHASE CHICKEN LICKEN SAN DIEGO 6944*2300 06 APR,chicken licken san diego,-74.69,18133.29,Entertainment,True,test_split
+STMT001,13,2026-04-07,EFT PAYMENT FSI CITY POWER LOCAL 5797*1404,fsi city power local,-482.26,17651.03,Utilities,True,test_split
+STMT001,14,2026-04-07,POS PURCHASE SHOPRITE MEMBERS COM,shoprite members com,-326.8,17324.23,Groceries,True,test_split
+STMT001,15,2026-04-07,DEBIT ORDER DELTA GAS BERGENFIELD 07 APR,delta gas bergenfield,-89.7,17234.53,Utilities,True,test_split
+STMT001,16,2026-04-08,POS PURCHASE SPAR SUPER CENT PASCO MENLYN,spar super cent pasco menlyn,-63.96,17170.57,Other Services,True,test_split
+STMT001,17,2026-04-08,POS PURCHASE ATM FEE,atm fee,-96.96,17073.61,Other Services,True,test_split
+STMT001,18,2026-04-09,CARD PURCHASE SPOTIFY 4970*9439,spotify,-125.66,16947.95,Entertainment,True,test_split
+STMT001,19,2026-04-10,POS PURCHASE MONTHLY MAINTENANCE FEE BLOEMFONTEIN 10 APR,monthly maintenance fee bloemfontein,-117.06,16830.89,Other Services,True,test_split
+STMT001,20,2026-04-10,POS PURCHASE DRESS RIVERSIDE 6993*7049 10 APR,dress riverside,-575.55,16255.34,Other Services,True,test_split
+STMT001,21,2026-04-11,POS PURCHASE BP MOKENA SANDTON 7943*7500,bp mokena sandton,-1715.89,14539.45,Transport,True,test_split
+STMT001,22,2026-04-11,FAMILY 9148*4333,family,-1363.24,13176.21,Groceries,True,test_split
+STMT001,23,2026-04-13,CARD PURCHASE SHELL 13 APR,shell,-832.24,12343.97,Transport,True,test_split
+STMT001,24,2026-04-14,CARD PURCHASE SPUR SAN DIEGO 14 APR,spur san diego,-52.06,12291.91,Entertainment,True,test_split
+STMT001,25,2026-04-15,POS PURCHASE DEBONAIRS PIZZA 3777*6645,debonairs pizza,-41.5,12250.41,Entertainment,True,test_split
+STMT001,26,2026-04-15,POS PURCHASE ASTRON ENERGY 2495*4428,astron energy,-807.42,11442.99,Transport,True,test_split
+STMT001,27,2026-04-15,POS PURCHASE WOOLWORTHS COM JOHANNESBURG,woolworths com johannesburg,-349.7,11093.29,Groceries,True,test_split
+STMT001,28,2026-04-16,POS PURCHASE WOOLWORTHS FOOD COM 3209*2030,woolworths food com,-742.95,10350.34,Groceries,True,test_split
+STMT001,29,2026-04-17,CARD PURCHASE DBT CRD ROMANS PIZZA BRISTOL SANDTON 9583*3983,dbt crd romans pizza bristol sandton,-108.62,10241.72,Entertainment,True,test_split
+STMT001,30,2026-04-17,POS PURCHASE NORTHSIDE MARKET DURBAN 2446*8493,northside market durban,-494.54,9747.18,Groceries,True,test_split
+STMT001,31,2026-04-17,CARD PURCHASE CHECKERS SOWETO 1829*5990 17 APR,checkers soweto,-344.38,9402.8,Groceries,True,test_split
+STMT001,32,2026-04-17,POS PURCHASE STEERS COLLEGE PARK DATE PRETORIA,steers college park date pretoria,-177.79,9225.01,Entertainment,True,test_split
+STMT001,33,2026-04-17,POS PURCHASE SHOPRITE AUBURN,shoprite auburn,-1183.61,8041.4,Groceries,True,test_split
+STMT001,34,2026-04-21,RD STREET MINI MART BETHLEHEM PADATE HATFIELD 4274*5200 21 APR,rd street mini mart bethlehem padate hatfield,-187.62,7853.78,Groceries,True,test_split
+STMT001,35,2026-04-21,POS PURCHASE ASTRON ENERGY AMPM BANNING 9636*1788 21 APR,astron energy ampm banning,-806.33,7047.45,Transport,True,test_split
+STMT001,36,2026-04-22,DEB CITY MARKET RAILROAD AVE RIFLE 8556*5053,deb city market railroad ave rifle,-1087.93,5959.52,Groceries,True,test_split
+STMT001,37,2026-04-22,CARD PURCHASE GEORGE WASHINGTON WINCHESTER,george washington winchester,-124.96,5834.56,Groceries,True,test_split
+STMT001,38,2026-04-22,POS PURCHASE ASTRON ENERGY WINTER SPRING 22 APR,astron energy winter spring,-398.68,5435.88,Transport,True,test_split
+STMT001,39,2026-04-23,NANDOS,nandos,-117.2,5318.68,Entertainment,True,test_split
+STMT001,40,2026-04-24,CARD PURCHASE MOZARTS COFFEE ROA AUSTIN 1713*1867,mozarts coffee roa austin,-501.36,4817.32,Entertainment,True,test_split
+STMT001,41,2026-04-24,POS PURCHASE PIQUA FRIENDLY GROCER 7177*5280 24 APR,piqua friendly grocer,-236.03,4581.29,Groceries,True,test_split
+STMT001,42,2026-04-25,POS PURCHASE SPROUTS FARMER SPROUTS FARMERS OAKLAND ROSEBANK 8170*8081,sprouts farmer sprouts farmers oakland rosebank,-1098.1,3483.19,Groceries,True,test_split
+STMT001,43,2026-04-25,POS PURCHASE ASTRON ENERGY QPS ROSEBANK 9257*3642,astron energy qps rosebank,-1112.92,2370.27,Transport,True,test_split
+STMT001,44,2026-04-25,SALARY SUNVELD ENGINEERING,salary sunveld engineering,28200.0,30570.27,Income,False,generated
+STMT001,45,2026-04-26,CARD PURCHASE CHECKERS ROSEBANK 3155*7141 26 APR,checkers rosebank,-207.53,30362.74,Groceries,True,test_split
+STMT001,46,2026-04-26,GROVE MARKET PERSEVERANCE AUSTIN,grove market perseverance austin,-115.51,30247.23,Groceries,True,test_split
+STMT001,47,2026-04-29,POS PURCHASE ESKOM AIRTIME JOHANNESBURG 1608*8479 29 APR,eskom airtime johannesburg,-247.97,29999.26,Utilities,True,test_split
+STMT001,48,2026-04-30,POS PURCHASE ASTRON ENERGY ACWORTH 9932*8679 30 APR,astron energy acworth,-403.07,29596.19,Transport,True,test_split
+STMT001,49,2026-04-30,MONTHLY ACCOUNT FEE,monthly account fee,-69.0,29527.19,Other Services,True,generated

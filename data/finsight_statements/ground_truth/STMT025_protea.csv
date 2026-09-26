@@ -1,0 +1,39 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT025,1,2026-07-01,DBT CRD BP TOM GRANI NATCHEZ,dbt crd bp tom grani natchez,-307.54,13570.37,Transport,True,test_split
+STMT025,2,2026-07-01,ATM FEE SANDTON 01 JUL,atm fee sandton,-96.96,13473.41,Other Services,True,test_split
+STMT025,3,2026-07-01,MAGTAPE DEBIT GRID,grid,-544.39,12929.02,Utilities,True,test_split
+STMT025,4,2026-07-01,POS PURCHASE AMAZON PRIME JQ DBT CRD AMZN COM BILLWA POLOKWANE 7726*9614,amazon prime jq dbt crd amzn com billwa polokwane,-218.69,12710.33,Entertainment,True,test_split
+STMT025,5,2026-07-02,POS PURCHASE SPOTIFY 02 JUL,spotify,-223.43,12486.9,Entertainment,True,test_split
+STMT025,6,2026-07-04,CARD PURCHASE SEATTLE COFFEE VIRGINIA BEACVA POLOKWANE 04 JUL,seattle coffee virginia beacva polokwane,-56.47,12430.43,Entertainment,True,test_split
+STMT025,7,2026-07-05,POS PURCHASE PRIZEPICKS,prizepicks,-130.99,12299.44,Entertainment,True,test_split
+STMT025,8,2026-07-05,POS PURCHASE MEDIRITE PHARMACY SCRIPT POLOKWANE,medirite pharmacy script polokwane,-731.11,11568.33,Health,True,test_split
+STMT025,9,2026-07-06,POS PURCHASE DDA DEBONAIRS PIZZA MONTROSE 06 JUL,dda debonairs pizza montrose,-95.03,11473.3,Entertainment,True,test_split
+STMT025,10,2026-07-06,DEBIT ORDER EGOLI GAS 06 JUL,egoli gas,-2449.43,9023.87,Utilities,True,test_split
+STMT025,11,2026-07-06,CARD PURCHASE MONTHLY MAINTENANCE FEE,monthly maintenance fee,-117.06,8906.81,Other Services,True,test_split
+STMT025,12,2026-07-07,LOCK HAVEN PIN SOWETO 2700*1498 07 JUL,lock haven pin soweto,-391.73,8515.08,Groceries,True,test_split
+STMT025,13,2026-07-08,POS PURCHASE PICK PAY MIDDLEBR KNOXVILLE PIN,pick pay middlebr knoxville pin,-110.51,8404.57,Groceries,True,test_split
+STMT025,14,2026-07-08,SPAR SUP,spar sup,-204.47,8200.1,Groceries,True,test_split
+STMT025,15,2026-07-09,POS PURCHASE PLAZA BAGELS DELI CLIFTON 5836*1575,plaza bagels deli clifton,-97.3,8102.8,Entertainment,True,test_split
+STMT025,16,2026-07-09,POS PURCHASE GAS WOODBRIDGE 4180*9994,gas woodbridge,-1352.97,6749.83,Transport,True,test_split
+STMT025,17,2026-07-10,CARD PURCHASE CATAMOUNT TR CULLOWHEE 7189*5650 10 JUL,catamount tr cullowhee,-50.46,6699.37,Groceries,True,test_split
+STMT025,18,2026-07-11,POS PURCHASE MUGG BEAN MIDRAND,mugg bean midrand,-37.2,6662.17,Entertainment,True,test_split
+STMT025,19,2026-07-11,MONTHLY MAINTENANCE FEE 9677*3048 11 JUL,monthly maintenance fee,-184.99,6477.18,Other Services,True,test_split
+STMT025,20,2026-07-13,POS PURCHASE PORTLAND ORUS 4903*3781,portland orus,-442.57,6034.61,Groceries,True,test_split
+STMT025,21,2026-07-14,POS PURCHASE STEERS 9494*1665,steers,-38.0,5996.61,Entertainment,True,test_split
+STMT025,22,2026-07-14,CARD PURCHASE ASTRON ENERGY 14 JUL,astron energy,-1191.71,4804.9,Transport,True,test_split
+STMT025,23,2026-07-16,POS PURCHASE SASOL SERVICE STATIGREEN BAY WIUS MENLYN,sasol service statigreen bay wius menlyn,-456.84,4348.06,Transport,True,test_split
+STMT025,24,2026-07-18,POS PURCHASE FOOD LOVERS MARKET INDIANAPOLIS CAPE TOWN 4191*7801,food lovers market indianapolis cape town,-715.5,3632.56,Groceries,True,test_split
+STMT025,25,2026-07-18,NANDOS PRETORIA 1233*4556,nandos pretoria,-169.04,3463.52,Entertainment,True,test_split
+STMT025,26,2026-07-20,POS PURCHASE CAR WASH MALL 2516*8842,car wash mall,-210.05,3253.47,Other Services,True,test_split
+STMT025,27,2026-07-20,POS PURCHASE AMAZON PRIME TL 9499*9212 20 JUL,amazon prime tl,-228.1,3025.37,Entertainment,True,test_split
+STMT025,28,2026-07-22,TIKTOK TIKTOK SINGAPORE DURBAN 2886*5729,tiktok tiktok singapore durban,-680.39,2344.98,Entertainment,True,test_split
+STMT025,29,2026-07-22,POS PURCHASE DANDY MINI MART 4457*2089,dandy mini mart,-113.64,2231.34,Groceries,True,test_split
+STMT025,30,2026-07-25,SALARY MOTSWEDI HOLDINGS,salary motswedi holdings,36600.0,38831.34,Income,False,generated
+STMT025,31,2026-07-25,POS PURCHASE PORTLAND ORUS 2716*3600,portland orus,-324.66,38506.68,Groceries,True,test_split
+STMT025,32,2026-07-26,SPOTIFY PRETORIA 5664*4344 26 JUL,spotify pretoria,-161.14,38345.54,Entertainment,True,test_split
+STMT025,33,2026-07-26,CARD PURCHASE AMAZON PRIME TH XV RX AMZN COM BILLWA,amazon prime th xv rx amzn com billwa,-198.19,38147.35,Entertainment,True,test_split
+STMT025,34,2026-07-28,CASH MR PRICE DG ATTALLA RANDBURG 28 JUL,cash mr price dg attalla randburg,-270.59,37876.76,Other Services,True,test_split
+STMT025,35,2026-07-29,POS PURCHASE RISE KINGDOMS 29 JUL,rise kingdoms,-65.27,37811.49,Entertainment,True,test_split
+STMT025,36,2026-07-29,CARD PURCHASE CITY FOODS CLEVELAND POLOKWANE,city foods cleveland polokwane,-147.41,37664.08,Groceries,True,test_split
+STMT025,37,2026-07-30,POS PURCHASE MAC ENGEN SHRA ELIZABETH 6408*1102,mac engen shra elizabeth,-537.43,37126.65,Transport,True,test_split
+STMT025,38,2026-07-31,MONTHLY ACCOUNT FEE,monthly account fee,-69.0,37057.65,Other Services,True,generated

@@ -1,0 +1,45 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT024,1,2026-09-01,POS PURCHASE ATM FEE CENTURION 3650*9617,atm fee centurion,-47.42,13864.74,Other Services,True,test_split
+STMT024,2,2026-09-01,CARD PURCHASE RANDBURG PIN 9368*7694,randburg pin,-136.45,13728.29,Groceries,True,test_split
+STMT024,3,2026-09-03,POS PURCHASE AFFORDABLE COMPUTERS DALTON DURBAN,affordable computers dalton durban,-1188.74,12539.55,Other Services,True,test_split
+STMT024,4,2026-09-03,SPROUTS FARMER SPROUTS FARMERS OAKLAND,sprouts farmer sprouts farmers oakland,-786.86,11752.69,Groceries,True,test_split
+STMT024,5,2026-09-04,POS PURCHASE SEATTLE COFFEE STORE FORT MYERS POLOKWANE 1559*1353,seattle coffee store fort myers polokwane,-64.18,11688.51,Entertainment,True,test_split
+STMT024,6,2026-09-04,POS PURCHASE CHECKERS HYPER SUP BEREA PIN HATFIELD 9767*3415,checkers hyper sup berea pin hatfield,-561.79,11126.72,Groceries,True,test_split
+STMT024,7,2026-09-04,POS PURCHASE SHELL SERVICE SEVIERVILLE RANDBURG 1040*1824,shell service sevierville randburg,-296.56,10830.16,Transport,True,test_split
+STMT024,8,2026-09-04,POS PURCHASE SASOL ALBERTVILLE ALUS 6082*9755,sasol albertville alus,-318.71,10511.45,Transport,True,test_split
+STMT024,9,2026-09-05,CARD PURCHASE DIRECT FEE 1447*9029,direct fee,-51.47,10459.98,Entertainment,True,test_split
+STMT024,10,2026-09-05,CARD PURCHASE MEDIRITE PHARMACY 3220*4641,medirite pharmacy,-585.53,9874.45,Health,True,test_split
+STMT024,11,2026-09-05,MAGTAPE DEBIT GRID MENLYN,grid menlyn,-264.9,9609.55,Utilities,True,test_split
+STMT024,12,2026-09-06,CARD PURCHASE WOOLWORTHS FOOD 5132*6768 06 SEP,woolworths food,-615.52,8994.03,Groceries,True,test_split
+STMT024,13,2026-09-06,POS PURCHASE SPAR,spar,-730.44,8263.59,Groceries,True,test_split
+STMT024,14,2026-09-08,CARD PURCHASE PIQUA PICK PAY EXPRESS 4642*3183 08 SEP,piqua pick pay express,-347.32,7916.27,Groceries,True,test_split
+STMT024,15,2026-09-08,POS PURCHASE DDA INGLES GAS EXP LIBERTY 9238*3948,dda ingles gas exp liberty,-560.04,7356.23,Transport,True,test_split
+STMT024,16,2026-09-09,HARDEE 09 SEP,hardee,-110.81,7245.42,Entertainment,True,test_split
+STMT024,17,2026-09-09,MONTHLY MAINTENANCE FEE 3257*3566,monthly maintenance fee,-138.88,7106.54,Other Services,True,test_split
+STMT024,18,2026-09-10,WOOLWORTHS FOOD WH PICO RIVERA ROSEBANK 10 SEP,woolworths food wh pico rivera rosebank,-382.39,6724.15,Groceries,True,test_split
+STMT024,19,2026-09-10,POS PURCHASE GAME SEAGOVILLE SOWETO,game seagoville soweto,-433.47,6290.68,Other Services,True,test_split
+STMT024,20,2026-09-11,POS PURCHASE MEDIRITE PHARMACY 11 SEP,medirite pharmacy,-121.76,6168.92,Health,True,test_split
+STMT024,21,2026-09-11,POS PURCHASE SPAR SUPER CENTER VISALIA 5885*7239 11 SEP,spar super center visalia,-316.22,5852.7,Groceries,True,test_split
+STMT024,22,2026-09-12,CARD PURCHASE JEWEL OSCO POLOKWANE 3635*5460,jewel osco polokwane,-129.04,5723.66,Groceries,True,test_split
+STMT024,23,2026-09-13,POS PURCHASE ASTRON ENERGY HATFIELD 6641*4560,astron energy hatfield,-614.89,5108.77,Transport,True,test_split
+STMT024,24,2026-09-13,CARD PURCHASE OIL SANDTON 7715*8934,oil sandton,-194.35,4914.42,Groceries,True,test_split
+STMT024,25,2026-09-14,ATM FEE,atm fee,-47.42,4867.0,Other Services,True,test_split
+STMT024,26,2026-09-15,MID BANK WITHDRWL LINCOLN TON FEE 2797*2604,mid bank withdrwl lincoln ton fee,-73.9,4793.1,Other Services,True,test_split
+STMT024,27,2026-09-16,CARD PURCHASE RD STREET MINI MART BETHLEHEM PADATE,rd street mini mart bethlehem padate,-116.82,4676.28,Groceries,True,test_split
+STMT024,28,2026-09-16,POS PURCHASE TRADER JOE TRADE LOS ES 4463*3200 16 SEP,trader joe trade los es,-37.17,4639.11,Groceries,True,test_split
+STMT024,29,2026-09-18,POS PURCHASE LUCKY WOOLWORTHS FOOD STORE HONOLULU HIUS MIDRAND,lucky woolworths food store honolulu hius midrand,-891.34,3747.77,Groceries,True,test_split
+STMT024,30,2026-09-19,POS PURCHASE SPAR SUP 2569*3220 19 SEP,spar sup,-326.6,3421.17,Groceries,True,test_split
+STMT024,31,2026-09-19,POS PURCHASE MONTHLY MAINTENANCE FEE,monthly maintenance fee,-184.99,3236.18,Other Services,True,test_split
+STMT024,32,2026-09-20,POS PURCHASE MICROSOFT 4564*1707,microsoft,-219.05,3017.13,Other Services,True,test_split
+STMT024,33,2026-09-20,CARD PURCHASE SPOTIFY CENTURION,spotify centurion,-249.48,2767.65,Entertainment,True,test_split
+STMT024,34,2026-09-20,POS PURCHASE CUSTOMER,customer,-1256.19,1511.46,Entertainment,True,test_split
+STMT024,35,2026-09-21,POS PURCHASE WOOLWORTHS FOOD DURBAN 8794*7558,woolworths food durban,-301.77,1209.69,Groceries,True,test_split
+STMT024,36,2026-09-23,POS PURCHASE ALLSTATE INS INS PREM 3172*8501,allstate ins ins prem,-760.52,449.17,Other Services,True,test_split
+STMT024,37,2026-09-24,ATM FEE PLUSTERM OLNEY AVE ASTORIA ORUS CAPE TOWN,atm fee plusterm olney ave astoria orus cape town,-73.9,375.27,Other Services,True,test_split
+STMT024,38,2026-09-25,SALARY BAOBAB CONSULTING,salary baobab consulting,34500.0,34875.27,Income,False,generated
+STMT024,39,2026-09-25,POS PURCHASE VIDA CAFFE CAPE TOWN,vida caffe cape town,-82.3,34792.97,Entertainment,True,test_split
+STMT024,40,2026-09-26,TRANSFER TO SAVINGS,transfer savings,-2700.0,32092.97,Transfer,False,generated
+STMT024,41,2026-09-27,POS PURCHASE DEBONAIRS PIZZA WASHINGTON AVEHOLLAND MIUS,debonairs pizza washington aveholland mius,-87.92,32005.05,Entertainment,True,test_split
+STMT024,42,2026-09-27,GOOGLE AFFINITY ROSEBANK 4839*9909,google affinity rosebank,-227.23,31777.82,Entertainment,True,test_split
+STMT024,43,2026-09-28,REILLY AUTO THAYER BLOEMFONTEIN 3952*8149,reilly auto thayer bloemfontein,-279.11,31498.71,Other Services,True,test_split
+STMT024,44,2026-09-30,MONTHLY ACCOUNT FEE,monthly account fee,-75.0,31423.71,Other Services,True,generated

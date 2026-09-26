@@ -1,0 +1,39 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT011,1,2026-08-01,BP INSIDE POLOKWANE 3318*5535,bp inside polokwane,-742.91,19466.03,Transport,True,test_split
+STMT011,2,2026-08-01,EFT PAYMENT COS UTILITIES EZPA POLOKWANE 1951*1333,cos utilities ezpa polokwane,-1232.32,18233.71,Utilities,True,test_split
+STMT011,3,2026-08-02,POS PURCHASE AMPATH LAB MEMBERSHIP MIDRAND 5486*6645,ampath lab membership midrand,-1436.93,16796.78,Health,True,test_split
+STMT011,4,2026-08-02,POS PURCHASE MERCHANT ASTRON ENERGY EXPRE FLINT CAPE TOWN 9883*4019 02 AUG,merchant astron energy expre flint cape town,-790.6,16006.18,Transport,True,test_split
+STMT011,5,2026-08-02,CARD PURCHASE WOOLWORTHS FOOD WEST PALM BEAFL 5933*3565,woolworths food west palm beafl,-58.92,15947.26,Groceries,True,test_split
+STMT011,6,2026-08-03,CARD PURCHASE SEATTLE COFFEE NEW PORT RICH,seattle coffee new port rich,-20.38,15926.88,Entertainment,True,test_split
+STMT011,7,2026-08-04,POS PURCHASE PIZZA HUT BLOEMFONTEIN,pizza hut bloemfontein,-631.39,15295.49,Entertainment,True,test_split
+STMT011,8,2026-08-04,POS PURCHASE SASOL MENLYN,sasol menlyn,-818.15,14477.34,Transport,True,test_split
+STMT011,9,2026-08-05,DEBIT ORDER ESKOM DATA BUNDLE,eskom data bundle,-1628.52,12848.82,Utilities,True,test_split
+STMT011,10,2026-08-07,INTERNET PMT TO SCHOOL FEES DEPT EDUC CENTURION 4777*3286 07 AUG,school fees dept educ centurion,-3259.83,9588.99,Education,True,test_split
+STMT011,11,2026-08-07,SPUR WASHINGTON AVEHOLLAND MIUS ROSEBANK,spur washington aveholland mius rosebank,-80.32,9508.67,Entertainment,True,test_split
+STMT011,12,2026-08-09,FLBLUE ACA WWW DABL JOHANNESBURG 09 AUG,flblue aca www dabl johannesburg,-1521.99,7986.68,Other Services,True,test_split
+STMT011,13,2026-08-13,CARD PURCHASE ATM FEE,atm fee,-47.42,7939.26,Other Services,True,test_split
+STMT011,14,2026-08-14,CARD PURCHASE ATM FEE 5677*3973 14 AUG,atm fee,-96.96,7842.3,Other Services,True,test_split
+STMT011,15,2026-08-15,POS PURCHASE CONVENIENCE MART CENTURION 15 AUG,convenience mart centurion,-268.17,7574.13,Groceries,True,test_split
+STMT011,16,2026-08-16,POS PURCHASE WOOLWORTHS COM DURBAN 8475*3614,woolworths com durban,-310.79,7263.34,Groceries,True,test_split
+STMT011,17,2026-08-17,CARD PURCHASE SHELL GAS 17 AUG,shell gas,-437.57,6825.77,Transport,True,test_split
+STMT011,18,2026-08-17,CARD PURCHASE NSC LAKEWOOD 1965*9789 17 AUG,nsc lakewood,-734.49,6091.28,Entertainment,True,test_split
+STMT011,19,2026-08-17,ROMANS PIZZA HOPEWELLVA JOHANNESBURG 9382*1884,romans pizza hopewellva johannesburg,-148.16,5943.12,Entertainment,True,test_split
+STMT011,20,2026-08-18,CARD PURCHASE CHECKERS WAL POLOKWANE,checkers wal polokwane,-638.41,5304.71,Other Services,True,test_split
+STMT011,21,2026-08-19,POS PURCHASE MERCHANT ASTRON ENERGY EXPRE FLINT BLOEMFONTEIN,merchant astron energy expre flint bloemfontein,-445.35,4859.36,Transport,True,test_split
+STMT011,22,2026-08-19,POS PURCHASE ATM FEE DURBAN,atm fee durban,-47.42,4811.94,Other Services,True,test_split
+STMT011,23,2026-08-19,POS PURCHASE MCDONALDS OHUS 3676*5807,mcdonalds ohus,-141.41,4670.53,Entertainment,True,test_split
+STMT011,24,2026-08-21,CARD PURCHASE MONTHLY MAINTENANCE FEE,monthly maintenance fee,-138.88,4531.65,Other Services,True,test_split
+STMT011,25,2026-08-21,WOOLWORTHS 4766*4148,woolworths,-823.9,3707.75,Groceries,True,test_split
+STMT011,26,2026-08-22,POS PURCHASE AMPATH LAB CONSULTATION 3494*6389,ampath lab consultation,-239.75,3468.0,Health,True,test_split
+STMT011,27,2026-08-22,CARD PURCHASE SHELL LENEXA KSUS REF 2355*2021,shell lenexa ksus ref,-337.52,3130.48,Transport,True,test_split
+STMT011,28,2026-08-23,CARD PURCHASE MONTHLY MAINTENANCE FEE PRETORIA,monthly maintenance fee pretoria,-117.06,3013.42,Other Services,True,test_split
+STMT011,29,2026-08-24,SHOPRITE FUEL RICHMONDKY,shoprite fuel richmondky,-889.57,2123.85,Transport,True,test_split
+STMT011,30,2026-08-24,POS PURCHASE ATM FEE 5854*8542 24 AUG,atm fee,-96.96,2026.89,Other Services,True,test_split
+STMT011,31,2026-08-25,POS PURCHASE LK WITHDRWL CONVEN PRETORIA FEE 6455*1941,lk withdrwl conven pretoria fee,-73.9,1952.99,Other Services,True,test_split
+STMT011,32,2026-08-25,POS PURCHASE DBT WHOLEFDS KCM CAPE TOWN 25 AUG,dbt wholefds kcm cape town,-304.0,1648.99,Groceries,True,test_split
+STMT011,33,2026-08-25,SALARY BAOBAB CONSULTING,salary baobab consulting,40100.0,41748.99,Income,False,generated
+STMT011,34,2026-08-26,CELL PHONES CENTURION 8223*9310,cell phones centurion,-812.99,40936.0,Utilities,True,test_split
+STMT011,35,2026-08-27,PICK PAY DURBAN 27 AUG,pick pay durban,-295.52,40640.48,Groceries,True,test_split
+STMT011,36,2026-08-28,CARD PURCHASE CAPITAL AUTO 6329*1134,capital auto,-1276.24,39364.24,Other Services,True,test_split
+STMT011,37,2026-08-29,RAISING CANES ROSEBANK 9770*2772,raising canes rosebank,-194.48,39169.76,Entertainment,True,test_split
+STMT011,38,2026-08-31,MONTHLY ACCOUNT FEE,monthly account fee,-65.0,39104.76,Other Services,True,generated

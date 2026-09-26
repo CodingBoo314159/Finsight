@@ -1,0 +1,47 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT015,1,2026-08-01,POS PURCHASE ATM FEE,atm fee,-47.42,26737.02,Other Services,True,test_split
+STMT015,2,2026-08-01,CARD PURCHASE WOOLWORTHS RANDBURG,woolworths randburg,-465.14,26271.88,Groceries,True,test_split
+STMT015,3,2026-08-02,SWIF FOOD STOR PRETORIA 02 AUG,swif food stor pretoria,-230.37,26041.51,Groceries,True,test_split
+STMT015,4,2026-08-02,PROG SELECT INS INS PREM JOHANNESBURG 1915*8123 02 AUG,prog select ins ins prem johannesburg,-983.68,25057.83,Other Services,True,test_split
+STMT015,5,2026-08-03,POS PURCHASE SASOL HATFIELD 5293*1574 03 AUG,sasol hatfield,-388.6,24669.23,Transport,True,test_split
+STMT015,6,2026-08-03,DATE DSTV CHULU COM BIL,date dstv chulu com bil,-106.61,24562.62,Entertainment,True,test_split
+STMT015,7,2026-08-04,POS PURCHASE WAL CHECKERS SUPER HATFIELD,wal checkers super hatfield,-34.46,24528.16,Groceries,True,test_split
+STMT015,8,2026-08-04,CARD PURCHASE RACEWAY BUFORD HWY CENTURION,raceway buford hwy centurion,-363.7,24164.46,Groceries,True,test_split
+STMT015,9,2026-08-05,CARD PURCHASE WOOLWORTHS HACKENSACK,woolworths hackensack,-171.72,23992.74,Groceries,True,test_split
+STMT015,10,2026-08-05,POS PURCHASE PICK PAY ADAMSVILLE ROSEBANK,pick pay adamsville rosebank,-400.86,23591.88,Groceries,True,test_split
+STMT015,11,2026-08-05,DEBIT ORDER FRONTIER UTILITIES 3183*2685,frontier utilities,-668.13,22923.75,Utilities,True,test_split
+STMT015,12,2026-08-05,EFT PAYMENT VIRGIN ACTIVE MEMBERSHIP 1348*2801,virgin active membership,-193.73,22730.02,Health,True,test_split
+STMT015,13,2026-08-07,POS PURCHASE CHECKERS 4953*2187 07 AUG,checkers,-767.96,21962.06,Groceries,True,test_split
+STMT015,14,2026-08-08,ASTRON ENERGY MYRTLE BEACH 08 AUG,astron energy myrtle beach,-1758.36,20203.7,Transport,True,test_split
+STMT015,15,2026-08-10,IC COSTCO INSTACAR,ic costco instacar,-708.08,19495.62,Other Services,True,test_split
+STMT015,16,2026-08-10,POS PURCHASE PATTERSON TOTALENERGIES PATTERSON 10 AUG,patterson totalenergies patterson,-402.69,19092.93,Transport,True,test_split
+STMT015,17,2026-08-10,CARD PURCHASE CPENERGY ENTEX ENT DR POLOKWANE 2418*7287,cpenergy entex ent dr polokwane,-527.38,18565.55,Utilities,True,test_split
+STMT015,18,2026-08-11,EKURHULENI ELECTRICITY SERVICES LLC NEW ORLEANS,ekurhuleni electricity services llc new orleans,-1587.52,16978.03,Utilities,True,test_split
+STMT015,19,2026-08-11,CUMBERLAND FARMS HOLLYWOOD 6311*8670,cumberland farms hollywood,-107.16,16870.87,Groceries,True,test_split
+STMT015,20,2026-08-11,SASOL DURBAN 11 AUG,sasol durban,-312.66,16558.21,Transport,True,test_split
+STMT015,21,2026-08-11,POS PURCHASE ROAD TRAC RO BLOEMFONTEIN,road trac ro bloemfontein,-85.34,16472.87,Groceries,True,test_split
+STMT015,22,2026-08-11,POS PURCHASE VIDA CAFFE 6210*3141,vida caffe,-62.34,16410.53,Entertainment,True,test_split
+STMT015,23,2026-08-14,POS PURCHASE ATM FEE,atm fee,-96.96,16313.57,Other Services,True,test_split
+STMT015,24,2026-08-15,CARD PURCHASE BURGER TORRANCE 1302*1922 15 AUG,burger torrance,-160.15,16153.42,Entertainment,True,test_split
+STMT015,25,2026-08-15,POS PURCHASE MONTHLY MAINTENANCE FEE 15 AUG,monthly maintenance fee,-117.06,16036.36,Other Services,True,test_split
+STMT015,26,2026-08-16,POS PURCHASE BMC GEORGIA POWE ELEPAY BMC GEORGIA POWER NORC,bmc georgia powe elepay bmc georgia power norc,-1845.81,14190.55,Utilities,True,test_split
+STMT015,27,2026-08-16,POS PURCHASE SCHOOL FEES DEPT EDUC SCHOOL FEES 7001*2604,school fees dept educ school fees,-5343.48,8847.07,Education,True,test_split
+STMT015,28,2026-08-16,CARD PURCHASE HARDEE 7805*8755 16 AUG,hardee,-389.63,8457.44,Entertainment,True,test_split
+STMT015,29,2026-08-17,POS PURCHASE HY VEE NEWTON 2478*5036 17 AUG,hy vee newton,-70.69,8386.75,Groceries,True,test_split
+STMT015,30,2026-08-20,POS PURCHASE DSTV LOS GATOS 1811*5167,dstv los gatos,-210.08,8176.67,Entertainment,True,test_split
+STMT015,31,2026-08-21,POS PURCHASE RD STREET MINI MART BETHLEHEM PADATE PRETORIA 1032*2903 21 AUG,rd street mini mart bethlehem padate pretoria,-409.33,7767.34,Groceries,True,test_split
+STMT015,32,2026-08-22,CARD PURCHASE WOOLWORTHS FOOD 5994*6085,woolworths food,-429.21,7338.13,Groceries,True,test_split
+STMT015,33,2026-08-23,POS PURCHASE SEI CASTLE ROCK JOHANNESBURG 3594*6468,sei castle rock johannesburg,-140.35,7197.78,Groceries,True,test_split
+STMT015,34,2026-08-23,POS PURCHASE SHELL SAUK CENTRE MNUS HATFIELD,shell sauk centre mnus hatfield,-508.53,6689.25,Transport,True,test_split
+STMT015,35,2026-08-24,POS PURCHASE BOXER SUP 1116*1674 24 AUG,boxer sup,-842.78,5846.47,Groceries,True,test_split
+STMT015,36,2026-08-24,TOTALENERGIES RESTON,totalenergies reston,-427.25,5419.22,Transport,True,test_split
+STMT015,37,2026-08-24,POS PURCHASE WOOLWORTHS HATFIELD,woolworths hatfield,-379.57,5039.65,Groceries,True,test_split
+STMT015,38,2026-08-25,SALARY ACACIA LOGISTICS,salary acacia logistics,25900.0,30939.65,Income,False,generated
+STMT015,39,2026-08-26,TRANSFER TO SAVINGS,transfer savings,-1300.0,29639.65,Transfer,False,generated
+STMT015,40,2026-08-26,POS PURCHASE DDA ROYAL FARMS KULPSVILLE ROSEBANK,dda royal farms kulpsville rosebank,-238.66,29400.99,Groceries,True,test_split
+STMT015,41,2026-08-27,PUBLIX PORT RICHEY 5423*1236 27 AUG,publix port richey,-356.66,29044.33,Groceries,True,test_split
+STMT015,42,2026-08-28,POS PURCHASE CHECKERS HYPER SUPER CENTGUNTERSVILLE ALUS CAPE TOWN 9271*2188,checkers hyper super centguntersville alus cape town,-1357.4,27686.93,Groceries,True,test_split
+STMT015,43,2026-08-29,BURLINGTON STORES AUSTIN 6549*5369,burlington stores austin,-255.47,27431.46,Other Services,True,test_split
+STMT015,44,2026-08-30,POS PURCHASE WOOLWORTHS FOOD CAPE TOWN 4196*6917,woolworths food cape town,-199.02,27232.44,Groceries,True,test_split
+STMT015,45,2026-08-30,POS PURCHASE ASTRON ENERGY,astron energy,-313.58,26918.86,Transport,True,test_split
+STMT015,46,2026-08-31,MONTHLY ACCOUNT FEE,monthly account fee,-69.0,26849.86,Other Services,True,generated

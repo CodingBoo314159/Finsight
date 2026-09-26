@@ -1,0 +1,40 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT026,1,2026-07-01,GRAND MARKET APPLE VALLEY 3933*1966,grand market apple valley,-332.67,18152.6,Groceries,True,test_split
+STMT026,2,2026-07-01,POS PURCHASE CREDITNINJA MENLYN 2170*9934 01 JUL,creditninja menlyn,-714.3,17438.3,Entertainment,True,test_split
+STMT026,3,2026-07-02,POS PURCHASE MEDIRITE PHARMACY CONTRIBUTION 5826*8269,medirite pharmacy contribution,-129.39,17308.91,Health,True,test_split
+STMT026,4,2026-07-03,CARD PURCHASE SHELL SERVICE STATIGREEN BAY WIUS 7017*1971 03 JUL,shell service statigreen bay wius,-546.08,16762.83,Transport,True,test_split
+STMT026,5,2026-07-04,STORE BAYONNE 9393*6547 04 JUL,store bayonne,-562.3,16200.53,Groceries,True,test_split
+STMT026,6,2026-07-04,POS PURCHASE FSI CITY TSHWANE ELECTRICITY LOCAL 04 JUL,fsi city tshwane electricity local,-482.26,15718.27,Utilities,True,test_split
+STMT026,7,2026-07-06,CARD PURCHASE ROMANS PIZZA,romans pizza,-371.65,15346.62,Entertainment,True,test_split
+STMT026,8,2026-07-06,POS PURCHASE KOHLS,kohls,-354.39,14992.23,Other Services,True,test_split
+STMT026,9,2026-07-07,POS PURCHASE FSI CITY JOHANNESBURG LOCAL 7744*2574,fsi city johannesburg local,-1037.85,13954.38,Utilities,True,test_split
+STMT026,10,2026-07-07,STORE BAYONNE,store bayonne,-209.78,13744.6,Groceries,True,test_split
+STMT026,11,2026-07-09,POS PURCHASE SPOTIFY ROSEBANK 09 JUL,spotify rosebank,-160.48,13584.12,Entertainment,True,test_split
+STMT026,12,2026-07-10,POS PURCHASE BP SAUK CENTRE MNUS 6530*8904,bp sauk centre mnus,-622.43,12961.69,Transport,True,test_split
+STMT026,13,2026-07-10,CARD PURCHASE FOOD LION RALEIGH SOWETO 9364*6658 10 JUL,food lion raleigh soweto,-1331.71,11629.98,Groceries,True,test_split
+STMT026,14,2026-07-10,POS PURCHASE SHELL SERVICE SERVICE WESTLAND 2617*2355 10 JUL,shell service service westland,-832.24,10797.74,Transport,True,test_split
+STMT026,15,2026-07-12,BOJANGLES JACKSONVILLE 4911*9863,bojangles jacksonville,-184.03,10613.71,Entertainment,True,test_split
+STMT026,16,2026-07-12,KFC PRETORIA,kfc pretoria,-57.02,10556.69,Entertainment,True,test_split
+STMT026,17,2026-07-13,WINCO FOODS BAKERSFIELD CAUS 5784*3606,winco foods bakersfield caus,-358.17,10198.52,Groceries,True,test_split
+STMT026,18,2026-07-14,ENGEN 1618*3496,engen,-385.73,9812.79,Transport,True,test_split
+STMT026,19,2026-07-16,POS PURCHASE VILLAGE MARKET MENLYN 16 JUL,village market menlyn,-168.54,9644.25,Groceries,True,test_split
+STMT026,20,2026-07-17,POS PURCHASE COSTCO GAS FORT WORTH,costco gas fort worth,-1267.76,8376.49,Transport,True,test_split
+STMT026,21,2026-07-18,POS PURCHASE SEATTLE COFFEE,seattle coffee,-229.47,8147.02,Entertainment,True,test_split
+STMT026,22,2026-07-18,POS PURCHASE CHECKERS,checkers,-164.8,7982.22,Groceries,True,test_split
+STMT026,23,2026-07-19,POS PURCHASE BP 7917*6777,bp,-1411.82,6570.4,Transport,True,test_split
+STMT026,24,2026-07-20,POS PURCHASE AMAZON PRIME MU SX AG AMZN COM BILLWA,amazon prime mu sx ag amzn com billwa,-198.19,6372.21,Entertainment,True,test_split
+STMT026,25,2026-07-21,POS PURCHASE WOOLWORTHS COM RANDBURG 21 JUL,woolworths com randburg,-349.7,6022.51,Groceries,True,test_split
+STMT026,26,2026-07-22,POS PURCHASE STARS CHERRY HILL DURBAN,stars cherry hill durban,-130.99,5891.52,Entertainment,True,test_split
+STMT026,27,2026-07-23,POS PURCHASE DBT CRD MURPHY ATWALMART COLUMBUSIN 6063*2120,dbt crd murphy atwalmart columbusin,-1040.12,4851.4,Transport,True,test_split
+STMT026,28,2026-07-23,CARD PURCHASE CITY FOODS CLEVELAND 23 JUL,city foods cleveland,-231.28,4620.12,Groceries,True,test_split
+STMT026,29,2026-07-25,POS PURCHASE ASTRON ENERGY ROCHESTER CAPE TOWN 25 JUL,astron energy rochester cape town,-866.22,3753.9,Transport,True,test_split
+STMT026,30,2026-07-25,SALARY BAOBAB CONSULTING,salary baobab consulting,25000.0,28753.9,Income,False,generated
+STMT026,31,2026-07-25,ROAD TRAC RO ROSEBANK,road trac ro rosebank,-138.17,28615.73,Groceries,True,test_split
+STMT026,32,2026-07-27,POS PURCHASE NORTHSIDE MARKET 4460*9574,northside market,-220.78,28394.95,Groceries,True,test_split
+STMT026,33,2026-07-28,CHK PURCH PIN DEBONAIRS PIZZA JACKSON JOHANNESBURG,chk purch pin debonairs pizza jackson johannesburg,-225.22,28169.73,Entertainment,True,test_split
+STMT026,34,2026-07-28,POS PURCHASE WAL PICK PAY SUPER LONGMONT 28 JUL,wal pick pay super longmont,-45.33,28124.4,Groceries,True,test_split
+STMT026,35,2026-07-28,POS PURCHASE MUGG BEAN KARSHAN ALLEN 6316*4312 28 JUL,mugg bean karshan allen,-130.99,27993.41,Entertainment,True,test_split
+STMT026,36,2026-07-29,KRISPY KREME DURBAN 7719*5710,krispy kreme durban,-137.77,27855.64,Entertainment,True,test_split
+STMT026,37,2026-07-30,POS PURCHASE PICK PAY PROSPER POLOKWANE,pick pay prosper polokwane,-449.6,27406.04,Groceries,True,test_split
+STMT026,38,2026-07-31,MONTHLY ACCOUNT FEE,monthly account fee,-99.0,27307.04,Other Services,True,generated
+STMT026,39,2026-07-31,POS PURCHASE DAYBREAK MARKET BANNING ROSEBANK,daybreak market banning rosebank,-254.03,27053.01,Groceries,True,test_split

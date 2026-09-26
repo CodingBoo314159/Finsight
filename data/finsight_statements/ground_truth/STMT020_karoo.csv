@@ -1,0 +1,47 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT020,1,2026-05-01,SHELL,shell,-170.21,36595.84,Transport,True,test_split
+STMT020,2,2026-05-01,POS PURCHASE TOTALENERGIES 2242*3578,totalenergies,-1117.35,35478.49,Transport,True,test_split
+STMT020,3,2026-05-02,MAGTAPE DEBIT MONTESSORI PRE SCHOOL STUDENT FEES 7148*5259 02 MAY,montessori pre school student fees,-14606.98,20871.51,Education,True,test_split
+STMT020,4,2026-05-03,DEBIT ORDER ESKOM DATA BUNDLE HATFIELD 3702*8781,eskom data bundle hatfield,-1030.47,19841.04,Utilities,True,test_split
+STMT020,5,2026-05-03,INTERNET PMT TO ACI POWER LIG 1762*9625,aci power lig,-1993.49,17847.55,Utilities,True,test_split
+STMT020,6,2026-05-04,EFT PAYMENT JOHANNESBURG WATER PAYMEN,johannesburg water paymen,-102.25,17745.3,Utilities,True,test_split
+STMT020,7,2026-05-04,EFT PAYMENT AMPATH LAB CONSULTATION 1437*4722,ampath lab consultation,-204.69,17540.61,Health,True,test_split
+STMT020,8,2026-05-04,POS PURCHASE SPAR SUP 04 MAY,spar sup,-219.3,17321.31,Groceries,True,test_split
+STMT020,9,2026-05-05,POS PURCHASE WAL CHECKERS WAL SAMS BRIDGEVIEW,wal checkers wal sams bridgeview,-1674.87,15646.44,Groceries,True,test_split
+STMT020,10,2026-05-05,CARD PURCHASE SALAD HTTPSSALADAND 05 MAY,salad httpssaladand,-139.89,15506.55,Entertainment,True,test_split
+STMT020,11,2026-05-05,POS PURCHASE CKO PATREON 8419*6881,cko patreon,-72.75,15433.8,Entertainment,True,test_split
+STMT020,12,2026-05-06,CARD PURCHASE WOOLWORTHS FOOD COM ROSEBANK 7511*7529 06 MAY,woolworths food com rosebank,-224.97,15208.83,Groceries,True,test_split
+STMT020,13,2026-05-07,POS PURCHASE WOOLWORTHS FOOD DURBAN,woolworths food durban,-547.6,14661.23,Groceries,True,test_split
+STMT020,14,2026-05-07,MAGTAPE DEBIT AMPATH LAB SCRIPT JOHANNESBURG 07 MAY,ampath lab script johannesburg,-303.97,14357.26,Health,True,test_split
+STMT020,15,2026-05-07,POS PURCHASE CHECKERS HYPER SUP DARIEN 6879*5922 07 MAY,checkers hyper sup darien,-489.28,13867.98,Groceries,True,test_split
+STMT020,16,2026-05-08,SWIFT SHOP 5811*3609,swift shop,-1072.15,12795.83,Groceries,True,test_split
+STMT020,17,2026-05-08,CARD PURCHASE WENDYS JOHANNESBURG,wendys johannesburg,-110.45,12685.38,Entertainment,True,test_split
+STMT020,18,2026-05-09,PICK PAY MIDRAND,pick pay midrand,-191.1,12494.28,Groceries,True,test_split
+STMT020,19,2026-05-09,ATM FEE JOHANNESBURG 5309*2971,atm fee johannesburg,-47.42,12446.86,Other Services,True,test_split
+STMT020,20,2026-05-10,CARD PURCHASE ALLPOINT ATM ASTRON ENERGY CRAYCROFT RD CENTURION,allpoint atm astron energy craycroft rd centurion,-676.79,11770.07,Transport,True,test_split
+STMT020,21,2026-05-10,POS PURCHASE TOTALENERGIES CIRCLEVILLE PRETORIA 1986*7159,totalenergies circleville pretoria,-251.16,11518.91,Transport,True,test_split
+STMT020,22,2026-05-12,POS PURCHASE WOOLWORTHS FOOD BOSSIER CITY 7681*6647,woolworths food bossier city,-146.6,11372.31,Groceries,True,test_split
+STMT020,23,2026-05-12,POS PURCHASE CAVA PIKE PLZ VIENNA,cava pike plz vienna,-268.93,11103.38,Entertainment,True,test_split
+STMT020,24,2026-05-13,POS PURCHASE JIMMY JOHNS GREENWOOD VILCO 9723*8784 13 MAY,jimmy johns greenwood vilco,-170.69,10932.69,Entertainment,True,test_split
+STMT020,25,2026-05-14,CARD PURCHASE CHECKERS SUP BEAUMONT JOHANNESBURG 7807*8628,checkers sup beaumont johannesburg,-891.91,10040.78,Groceries,True,test_split
+STMT020,26,2026-05-15,POS PURCHASE FOOD LOVERS MARKET BOSSIER CITY 4887*8914,food lovers market bossier city,-129.86,9910.92,Groceries,True,test_split
+STMT020,27,2026-05-15,ASPCA PET INS PET INSUR,aspca pet ins pet insur,-525.18,9385.74,Other Services,True,test_split
+STMT020,28,2026-05-16,SPUR BENTON HARBOR MIUS SOWETO,spur benton harbor mius soweto,-108.31,9277.43,Entertainment,True,test_split
+STMT020,29,2026-05-17,POS PURCHASE ATM FEE 9964*1054,atm fee,-47.42,9230.01,Other Services,True,test_split
+STMT020,30,2026-05-18,BOONE COUNTY WATER DST 18 MAY,boone county water dst,-318.82,8911.19,Utilities,True,test_split
+STMT020,31,2026-05-18,CARD PURCHASE FIS NEIGHBORHOOD NEIGHBORHOOD GAS MINNEAPOLIS 3126*4118 18 MAY,fis neighborhood neighborhood gas minneapolis,-560.04,8351.15,Transport,True,test_split
+STMT020,32,2026-05-19,CARD PURCHASE CHECKERS HYPER SUP BEACH 8874*5431 19 MAY,checkers hyper sup beach,-292.76,8058.39,Groceries,True,test_split
+STMT020,33,2026-05-20,POS PURCHASE ATM FEE PRETORIA 2175*8148 20 MAY,atm fee pretoria,-96.96,7961.43,Other Services,True,test_split
+STMT020,34,2026-05-21,POS PURCHASE CRB BEST EGG 21 MAY,crb best egg,-1256.19,6705.24,Entertainment,True,test_split
+STMT020,35,2026-05-21,CKO PATREON DURBAN,cko patreon durban,-33.71,6671.53,Entertainment,True,test_split
+STMT020,36,2026-05-21,CARD PURCHASE CHECKERS HYPER SUP 21 MAY,checkers hyper sup,-913.27,5758.26,Groceries,True,test_split
+STMT020,37,2026-05-21,POS PURCHASE CKO PATREON JOHANNESBURG 9149*1172 21 MAY,cko patreon johannesburg,-65.27,5692.99,Entertainment,True,test_split
+STMT020,38,2026-05-24,POS PURCHASE ESKOM RATES TAXES BLOEMFONTEIN,eskom rates taxes bloemfontein,-1759.19,3933.8,Utilities,True,test_split
+STMT020,39,2026-05-25,SALARY BAOBAB CONSULTING,salary baobab consulting,44400.0,48333.8,Income,False,generated
+STMT020,40,2026-05-25,PICK PAY MIDDLEBR KNOXVILLE PIN BLOEMFONTEIN 7718*6373,pick pay middlebr knoxville pin bloemfontein,-240.45,48093.35,Groceries,True,test_split
+STMT020,41,2026-05-27,CARD PURCHASE OCULUS 1169*7943,oculus,-215.5,47877.85,Other Services,True,test_split
+STMT020,42,2026-05-27,MUGG BEAN,mugg bean,-98.95,47778.9,Entertainment,True,test_split
+STMT020,43,2026-05-27,POS PURCHASE PICK PAY PROSPER,pick pay prosper,-145.85,47633.05,Groceries,True,test_split
+STMT020,44,2026-05-28,POS PURCHASE WITHDRWL PHILLIPS FOO CAPE TOWN FEE,withdrwl phillips foo cape town fee,-176.03,47457.02,Transport,True,test_split
+STMT020,45,2026-05-28,MOUNTAIN SPAR EXPRESS ATTALLA 5697*3692,mountain spar express attalla,-149.7,47307.32,Groceries,True,test_split
+STMT020,46,2026-05-31,MONTHLY ACCOUNT FEE,monthly account fee,-75.0,47232.32,Other Services,True,generated

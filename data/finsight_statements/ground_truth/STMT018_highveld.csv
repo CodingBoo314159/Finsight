@@ -1,0 +1,46 @@
+statement_id,row_no,date,description_pdf,description_sa,amount,balance,category,is_spend,source
+STMT018,1,2026-09-01,INTERNET PMT TO CELL 3173*4017,cell,-779.31,21069.78,Utilities,True,test_split
+STMT018,2,2026-09-02,POS PURCHASE NANDOS MIDDLEBURG MENLYN 02 SEP,nandos middleburg menlyn,-254.25,20815.53,Entertainment,True,test_split
+STMT018,3,2026-09-03,EFT PAYMENT MEDIRITE PHARMACY 2573*8327,medirite pharmacy,-349.29,20466.24,Health,True,test_split
+STMT018,4,2026-09-03,BP 2670*3916 03 SEP,bp,-437.57,20028.67,Transport,True,test_split
+STMT018,5,2026-09-03,DEBIT ORDER SCHOOL FEES DEPT EDUC TEXTBOOKS 4324*3642,school fees dept educ textbooks,-1282.85,18745.82,Education,True,test_split
+STMT018,6,2026-09-03,ASTRON ENERGY BUEN LAKE BUENA VI PRETORIA 3657*4010,astron energy buen lake buena vi pretoria,-796.79,17949.03,Transport,True,test_split
+STMT018,7,2026-09-04,MEDIRITE PHARMACY MEMBERSHIP SOWETO 9189*7922,medirite pharmacy membership soweto,-1670.75,16278.28,Health,True,test_split
+STMT018,8,2026-09-04,ASTRON ENERGY TON BLOEMFONTEIN 4103*4809 04 SEP,astron energy ton bloemfontein,-206.79,16071.49,Transport,True,test_split
+STMT018,9,2026-09-05,CARD PURCHASE ATM FEE 05 SEP,atm fee,-96.96,15974.53,Other Services,True,test_split
+STMT018,10,2026-09-06,UBER EATS WENDYS 8665*3711 06 SEP,uber eats wendys,-192.07,15782.46,Entertainment,True,test_split
+STMT018,11,2026-09-06,POS PURCHASE SPAR SUPER CENTER APPLETON,spar super center appleton,-524.95,15257.51,Groceries,True,test_split
+STMT018,12,2026-09-07,DEBIT ORDER MEDIRITE PHARMACY POLOKWANE 07 SEP,medirite pharmacy polokwane,-113.82,15143.69,Health,True,test_split
+STMT018,13,2026-09-07,POS PURCHASE ML PLUS MEMBRSHP MONEYLION FA BD,ml plus membrshp moneylion fa bd,-125.66,15018.03,Entertainment,True,test_split
+STMT018,14,2026-09-07,POS PURCHASE SASOL 1324*1625,sasol,-278.63,14739.4,Transport,True,test_split
+STMT018,15,2026-09-08,CARD PURCHASE BP PRETORIA 6841*8184 08 SEP,bp pretoria,-522.29,14217.11,Transport,True,test_split
+STMT018,16,2026-09-10,POS PURCHASE AVA 1127*8619,ava,-288.0,13929.11,Entertainment,True,test_split
+STMT018,17,2026-09-12,POS PURCHASE JOHANNESBURG WATER PAYMEN,johannesburg water paymen,-102.25,13826.86,Utilities,True,test_split
+STMT018,18,2026-09-12,POS PURCHASE CALWATER WEB PAY JOHANNESBURG,calwater web pay johannesburg,-571.87,13254.99,Utilities,True,test_split
+STMT018,19,2026-09-12,CARD PURCHASE WAL BOXER BRIDGEVIEW,wal boxer bridgeview,-345.09,12909.9,Groceries,True,test_split
+STMT018,20,2026-09-12,POS PURCHASE SHELL TUSCALOOSA ROSEBANK 12 SEP,shell tuscaloosa rosebank,-1091.33,11818.57,Transport,True,test_split
+STMT018,21,2026-09-12,POS PURCHASE ESKOM FIBRE,eskom fibre,-1333.85,10484.72,Utilities,True,test_split
+STMT018,22,2026-09-14,POS PURCHASE CULVERS LUDINGTON 4348*4908,culvers ludington,-236.21,10248.51,Entertainment,True,test_split
+STMT018,23,2026-09-14,POS PURCHASE KFC,kfc,-54.82,10193.69,Entertainment,True,test_split
+STMT018,24,2026-09-14,CHECKERS COM JOHANNESBURG,checkers com johannesburg,-1378.37,8815.32,Groceries,True,test_split
+STMT018,25,2026-09-15,POS PURCHASE KFC FULTONDALE 15 SEP,kfc fultondale,-359.2,8456.12,Entertainment,True,test_split
+STMT018,26,2026-09-15,POS PURCHASE SASOL SPRINGFIELD 4888*6661 15 SEP,sasol springfield,-452.24,8003.88,Transport,True,test_split
+STMT018,27,2026-09-16,CARD PURCHASE PUBLIX OCOEE PRETORIA 6943*5402,publix ocoee pretoria,-118.95,7884.93,Groceries,True,test_split
+STMT018,28,2026-09-17,ATM FEE DURBAN 5074*3917 17 SEP,atm fee durban,-96.96,7787.97,Other Services,True,test_split
+STMT018,29,2026-09-17,POS PURCHASE MUGG BEAN MENLYN 5457*4674,mugg bean menlyn,-119.16,7668.81,Entertainment,True,test_split
+STMT018,30,2026-09-18,POS PURCHASE ENGEN SERVICE SERVICE STA LONG BEACH 9521*1526,engen service service sta long beach,-547.36,7121.45,Transport,True,test_split
+STMT018,31,2026-09-19,POS PURCHASE ENGEN 8934*7690,engen,-763.21,6358.24,Transport,True,test_split
+STMT018,32,2026-09-20,STOP SHOP,stop shop,-572.15,5786.09,Groceries,True,test_split
+STMT018,33,2026-09-21,CARD PURCHASE BOONE COUNTY WATER DST 8646*3795,boone county water dst,-333.41,5452.68,Utilities,True,test_split
+STMT018,34,2026-09-22,LK WITHDRWL CONVEN CENTURION FEE 2740*4818,lk withdrwl conven centurion fee,-73.9,5378.78,Other Services,True,test_split
+STMT018,35,2026-09-25,POS PURCHASE ROYAL FARMS ROYAL FARMS POLOKWANE,royal farms royal farms polokwane,-160.72,5218.06,Groceries,True,test_split
+STMT018,36,2026-09-25,SALARY BAOBAB CONSULTING,salary baobab consulting,44200.0,49418.06,Income,False,generated
+STMT018,37,2026-09-26,TRANSFER TO SAVINGS,transfer savings,-2800.0,46618.06,Transfer,False,generated
+STMT018,38,2026-09-26,POS PURCHASE FOOD 4562*4636,food,-728.66,45889.4,Groceries,True,test_split
+STMT018,39,2026-09-27,POS PURCHASE PICK PAY SUPER PEKIN ROSEBANK 5601*8320,pick pay super pekin rosebank,-803.9,45085.5,Groceries,True,test_split
+STMT018,40,2026-09-28,POS PURCHASE GRID 5914*1557,grid,-264.9,44820.6,Utilities,True,test_split
+STMT018,41,2026-09-28,POS PURCHASE ROAD TRAC RO 4600*5910 28 SEP,road trac ro,-142.19,44678.41,Groceries,True,test_split
+STMT018,42,2026-09-29,POS PURCHASE CARLS JR SANTA PAULA POLOKWANE 1687*9184 29 SEP,carls jr santa paula polokwane,-184.93,44493.48,Entertainment,True,test_split
+STMT018,43,2026-09-29,ASTRON ENERGY SAGIN LANSING POLOKWANE 7433*1418,astron energy sagin lansing polokwane,-657.16,43836.32,Transport,True,test_split
+STMT018,44,2026-09-30,MONTHLY ACCOUNT FEE,monthly account fee,-75.0,43761.32,Other Services,True,generated
+STMT018,45,2026-09-30,POS PURCHASE PLAZA BAGELS DELI CLIFTON ROSEBANK 4807*8560 30 SEP,plaza bagels deli clifton rosebank,-97.3,43664.02,Entertainment,True,test_split
