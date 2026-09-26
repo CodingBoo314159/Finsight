@@ -1,0 +1,14 @@
+# data preprocessing + PDF parsing (Thabang)
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+pdfplumber
+reportlab
+
+# classifier, dashboard, storage (per README - team to confirm)
+xgboost
+shap
+gradio
+openpyxl
