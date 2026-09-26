@@ -10,7 +10,7 @@ Built for ITDPA3-34 at Eduvos, Pretoria.
 |---|---|
 | Jennifer Ann Kok | ML classifier, Gradio interface, rule-based categorisation |
 | Kimberly Marufu |  |
-| Thabang Manyama | |
+| Thabang Manyama |  Data preprocessing and engineering, PDF parsing (synthetic statement generator, pdfplumber extraction), shared text cleaning |
 | Langalami Langa | |
 
 ## Project overview
