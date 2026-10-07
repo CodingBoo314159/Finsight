@@ -1,0 +1,174 @@
+{
+  "fast_food": [
+    "KFC",
+    "STEERS",
+    "NANDOS",
+    "WIMPY",
+    "DEBONAIRS PIZZA",
+    "ROMANS PIZZA",
+    "CHICKEN LICKEN",
+    "FISHAWAYS",
+    "MCDONALDS",
+    "BURGER KING",
+    "SPUR",
+    "OCEAN BASKET",
+    "PIZZA PERFECT"
+  ],
+  "coffee": [
+    "MUGG AND BEAN",
+    "VIDA E CAFFE",
+    "SEATTLE COFFEE CO",
+    "BOOTLEGGER COFFEE",
+    "KRISPY KREME"
+  ],
+  "grocery": [
+    "CHECKERS",
+    "CHECKERS HYPER",
+    "SHOPRITE",
+    "PICK N PAY",
+    "SPAR",
+    "WOOLWORTHS FOOD",
+    "BOXER",
+    "FOOD LOVERS MARKET",
+    "OK FOODS"
+  ],
+  "wholesale": [
+    "MAKRO",
+    "GAME",
+    "BOXER CASH AND CARRY"
+  ],
+  "fuel": [
+    "ENGEN",
+    "SASOL",
+    "SHELL",
+    "BP",
+    "TOTALENERGIES",
+    "ASTRON ENERGY"
+  ],
+  "forecourt_shops": [
+    "ENGEN QUICKSHOP",
+    "SHELL SELECT",
+    "BP EXPRESS",
+    "SASOL DELIGHT",
+    "TOTAL BONJOUR"
+  ],
+  "big_retail": [
+    "WOOLWORTHS",
+    "GAME",
+    "PICK N PAY HYPER"
+  ],
+  "cheap_shops": [
+    "PEP",
+    "ACKERMANS",
+    "MR PRICE",
+    "JET",
+    "PEP HOME"
+  ],
+  "clothes": [
+    "MR PRICE",
+    "TRUWORTHS",
+    "EDGARS",
+    "FOSCHINI",
+    "WOOLWORTHS",
+    "SPORTSCENE",
+    "TOTALSPORTS"
+  ],
+  "electronics": [
+    "INCREDIBLE CONNECTION",
+    "HIFI CORP",
+    "TAKEALOT"
+  ],
+  "hardware": [
+    "BUILDERS WAREHOUSE",
+    "LEROY MERLIN",
+    "CASHBUILD"
+  ],
+  "pharmacy": [
+    "CLICKS",
+    "DIS-CHEM"
+  ],
+  "online_shop": [
+    "TAKEALOT",
+    "SUPERBALIST",
+    "BASH"
+  ],
+  "food_delivery": [
+    "MR D FOOD",
+    "UBER EATS"
+  ],
+  "streaming": [
+    "SHOWMAX",
+    "DSTV",
+    "NETFLIX"
+  ],
+  "mobile": [
+    "VODACOM",
+    "MTN",
+    "TELKOM",
+    "CELL C"
+  ],
+  "internet": [
+    "RAIN",
+    "AFRIHOST",
+    "VUMATEL",
+    "OPENSERVE"
+  ],
+  "power": [
+    "ESKOM",
+    "CITY POWER",
+    "CITY OF TSHWANE",
+    "CITY OF JOBURG"
+  ],
+  "banks": [
+    "ABSA",
+    "FNB",
+    "STANDARD BANK",
+    "NEDBANK",
+    "CAPITEC"
+  ],
+  "money_send": [
+    "FNB EWALLET",
+    "ABSA CASHSEND",
+    "STD BANK INSTANT MONEY",
+    "PAYSHAP",
+    "CAPITEC SEND CASH"
+  ],
+  "credit_apps": [
+    "PAYFLEX",
+    "PAYJUSTNOW",
+    "HAPPY PAY",
+    "FINCHOICE",
+    "WONGA",
+    "LIME24"
+  ],
+  "rides": [
+    "BOLT",
+    "UBER"
+  ],
+  "flights": [
+    "FLYSAFAIR",
+    "AIRLINK",
+    "SAA",
+    "LIFT AIRLINE"
+  ],
+  "malls": [
+    "MENLYN PARK",
+    "SANDTON CITY",
+    "MALL OF AFRICA",
+    "CANAL WALK",
+    "GATEWAY",
+    "EASTGATE",
+    "CLEARWATER MALL",
+    "WOODLANDS",
+    "CRADLESTONE",
+    "PAVILION",
+    "V&A WATERFRONT",
+    "MALL OF THE NORTH",
+    "MAPONYA MALL",
+    "BROOKLYN MALL",
+    "CENTURION MALL",
+    "ROSEBANK MALL",
+    "FOURWAYS MALL",
+    "LIBERTY MIDLANDS"
+  ]
+}
