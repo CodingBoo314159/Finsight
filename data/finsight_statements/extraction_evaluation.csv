@@ -1,0 +1,31 @@
+statement_id,bank,layout,rows_expected,rows_extracted,date_acc,amount_acc,balance_acc,description_acc,balance_check,opening_ok
+STMT001,Protea Bank,ruled,43,43,1.0,1.0,1.0,1.0,1.0,True
+STMT002,Karoo Savings Bank,open,39,39,1.0,1.0,1.0,1.0,1.0,True
+STMT003,Highveld Mutual,zebra,39,39,1.0,1.0,1.0,1.0,1.0,True
+STMT004,Protea Bank,ruled,34,34,1.0,1.0,1.0,1.0,1.0,True
+STMT005,Karoo Savings Bank,open,48,48,1.0,1.0,1.0,1.0,1.0,True
+STMT006,Highveld Mutual,zebra,37,37,1.0,1.0,1.0,1.0,1.0,True
+STMT007,Protea Bank,ruled,42,42,1.0,1.0,1.0,1.0,1.0,True
+STMT008,Karoo Savings Bank,open,48,48,1.0,1.0,1.0,1.0,1.0,True
+STMT009,Highveld Mutual,zebra,40,40,1.0,1.0,1.0,1.0,1.0,True
+STMT010,Protea Bank,ruled,27,27,1.0,1.0,1.0,1.0,1.0,True
+STMT011,Karoo Savings Bank,open,27,27,1.0,1.0,1.0,1.0,1.0,True
+STMT012,Highveld Mutual,zebra,45,45,1.0,1.0,1.0,1.0,1.0,True
+STMT013,Protea Bank,ruled,37,37,1.0,1.0,1.0,1.0,1.0,True
+STMT014,Karoo Savings Bank,open,46,46,1.0,1.0,1.0,1.0,1.0,True
+STMT015,Highveld Mutual,zebra,42,42,1.0,1.0,1.0,1.0,1.0,True
+STMT016,Protea Bank,ruled,42,42,1.0,1.0,1.0,1.0,1.0,True
+STMT017,Karoo Savings Bank,open,43,43,1.0,1.0,1.0,1.0,1.0,True
+STMT018,Highveld Mutual,zebra,36,36,1.0,1.0,1.0,1.0,1.0,True
+STMT019,Protea Bank,ruled,37,37,1.0,1.0,1.0,1.0,1.0,True
+STMT020,Karoo Savings Bank,open,40,40,1.0,1.0,1.0,1.0,1.0,True
+STMT021,Highveld Mutual,zebra,39,39,1.0,1.0,1.0,1.0,1.0,True
+STMT022,Protea Bank,ruled,56,56,1.0,1.0,1.0,1.0,1.0,True
+STMT023,Karoo Savings Bank,open,43,43,1.0,1.0,1.0,1.0,1.0,True
+STMT024,Highveld Mutual,zebra,48,48,1.0,1.0,1.0,1.0,1.0,True
+STMT025,Protea Bank,ruled,45,45,1.0,1.0,1.0,1.0,1.0,True
+STMT026,Karoo Savings Bank,open,40,40,1.0,1.0,1.0,1.0,1.0,True
+STMT027,Highveld Mutual,zebra,35,35,1.0,1.0,1.0,1.0,1.0,True
+STMT028,Protea Bank,ruled,37,37,1.0,1.0,1.0,1.0,1.0,True
+STMT029,Karoo Savings Bank,open,43,43,1.0,1.0,1.0,1.0,1.0,True
+STMT030,Highveld Mutual,zebra,32,32,1.0,1.0,1.0,1.0,1.0,True
